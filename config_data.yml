@@ -66,7 +66,8 @@ inputs:
 translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
-    source: https://github.com/open-sdg/sdg-translations.git
+    #source: https://github.com/open-sdg/sdg-translations.git
+    source: https://github.com/WohnungNDS/translations-open-sdg.git
     tag: master
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
