@@ -10,24 +10,24 @@ prose:
             label: "Page Title"
             translation_key: metadata_fields.title
             scope: page
- #     - name: "sdg_goal"
- #       field:
- #           element: hidden
- #          label: "SDG Goal"
- #           translation_key: metadata_fields.sdg_goal
- #          scope: page
- #     - name: "permalink"
- #       field:
- #           element: hidden
- #           label: "Permalink"
- #           translation_key: metadata_fields.permalink
- #           scope: page
- #     - name: "layout"
- #       field:
- #           element: hidden
- #           label: "Layout"
- #           translation_key: metadata_fields.layout
- #           scope: page
+      - name: "sdg_goal"
+       field:
+           element: hidden
+          label: "SDG Goal"
+           translation_key: metadata_fields.sdg_goal
+          scope: page
+     - name: "permalink"
+       field:
+           element: hidden
+           label: "Permalink"
+           translation_key: metadata_fields.permalink
+           scope: page
+     - name: "layout"
+       field:
+           element: hidden
+           label: "Layout"
+           translation_key: metadata_fields.layout
+           scope: page
     ######### Global Metadata #########
       - name: "indicator_name"
         field:
