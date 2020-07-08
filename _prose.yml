@@ -126,7 +126,7 @@ prose:
             element: text
             label: "Other information"
             translation_key: metadata_fields.other_info
-            scope: national
+            scope: global
       - name: "quality_assurance"
         field:
             element: text
