@@ -115,18 +115,18 @@ prose:
     #        label: "Definitions"
     #        translation_key: metadata_fields.computation_definitions
     #       scope: national
-    #  - name: "computation_calculations"
-    #    field:
-    #        element: text
-    #        label: "Calculations"
-    #        translation_key: metadata_fields.computation_calculations
-    #        scope: national
+      - name: "computation_calculations"
+        field:
+            element: textarea
+            label: "Calculations"
+            translation_key: metadata_fields.computation_calculations
+            scope: national
       - name: "other_info"
         field:
             element: text
             label: "Other information"
             translation_key: metadata_fields.other_info
-            scope: national
+            scope: global
      # - name: "quality_assurance"
      #   field:
      #       element: text
@@ -164,11 +164,11 @@ prose:
             translation_key: metadata_fields.national_data_update_url_text
             scope: national
       - name: "national_metadata_update_url"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url
-            scope: national
+    #    field:
+    #        element: hidden
+    #        label: "Metadata last updated"
+    #        translation_key: metadata_fields.national_metadata_update_url
+    #        scope: national
       - name: "national_metadata_update_url_text"
         field:
             element: hidden
