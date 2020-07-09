@@ -88,8 +88,9 @@ reporting_status_extra_fields: []
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 map_layers:
-  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
-    name_property: rgn17nm
-    id_property: rgn17cd
-    output_subfolder: regions
+   - geojson_file: https://wohnungnds.github.io/WK_Data/geojson/maps/NI_Kurz_diss.geojson
+#  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
+    name_property: GEN
+    id_property: AGS
+    output_subfolder: maps
     filename_prefix: indicator_
