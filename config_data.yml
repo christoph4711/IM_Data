@@ -87,8 +87,12 @@ reporting_status_extra_fields: []
 # below and adjust if you would like to use the Open SDG mapping functionality.
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
+
+#- geojson_file: https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_Kurz_diss.geojson
+#- geojson_file: https://wohnungnds/github.io/WK_Data/geojson/maps/NI_Kurz_diss.geojson
+
 map_layers:
-  - geojson_file: https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_Kurz_diss.geojson
+  - geojson_file: https://wohnungnds/github.io/WK_Data/geojson/maps/NI_Kurz_diss.geojson
     name_property: GEN
     id_property: AGS
     output_subfolder: maps
