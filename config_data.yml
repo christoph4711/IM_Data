@@ -91,7 +91,7 @@ reporting_status_extra_fields: []
 # - geojson_file: https://wohnungnds.github.io/WK_Data/geojson/maps/NI_Kurz_diss.geojson
 # - geojson_file: https://wohnungnds.github.io/WK_Site/geojson/maps/NI_Kurz_diss.geojson
 map_layers:
-  - geojson_file: https://wohnungnds.github.io/WK_Site/geojson/maps/NI_Kurz_diss.geojson
+  - geojson_file: https://wohnungnds.github.io/WK_Data/geojson/maps/NI_Kurz_diss.geojson
     name_property: GEN
     id_property: AGS
     output_subfolder: maps
