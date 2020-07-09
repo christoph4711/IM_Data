@@ -89,7 +89,7 @@ reporting_status_extra_fields: []
 # local, relative to the src_dir specified above.
 #  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
 map_layers:
-   - geojson_file: https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_Kurz_diss.geojson
+   - geojson_file: https://wohnungnds.github.io/WK_Site/geojson/maps/NI_Kurz_diss.geojson
     name_property: GEN
     id_property: AGS
     output_subfolder: maps
