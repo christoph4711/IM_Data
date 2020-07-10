@@ -96,3 +96,4 @@ map_layers:
     id_property: AGS
     output_subfolder: maps
     filename_prefix: indicator_
+    exclude_columns: ['Gebietseinheit']
