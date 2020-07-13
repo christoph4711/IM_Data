@@ -278,37 +278,37 @@ prose:
             label: "Organisation"
             translation_key: metadata_fields.source_organisation_1
             scope: source_1
-      - name: "source_periodicity_1"
-        field:
-            element: text
-            label: "Periodicity"
-            translation_key: metadata_fields.source_periodicity_1
-            scope: source_1
-      - name: "source_earliest_available_1"
-        field:
-            element: text
-            label: "Earliest available data"
-            translation_key: metadata_fields.source_earliest_available_1
-            scope: source_1
-      - name: "source_geographical_coverage_1"
-        field:
-            element: text
-            label: "Geographical coverage"
-            translation_key: metadata_fields.source_geographical_coverage_1
-            scope: source_1
+     # - name: "source_periodicity_1"
+     #   field:
+     #       element: text
+     #       label: "Periodicity"
+     #       translation_key: metadata_fields.source_periodicity_1
+     #       scope: source_1
+     # - name: "source_earliest_available_1"
+     #   field:
+     #       element: text
+     #       label: "Earliest available data"
+     #       translation_key: metadata_fields.source_earliest_available_1
+     #       scope: source_1
+     # - name: "source_geographical_coverage_1"
+     #   field:
+     #       element: text
+     #       label: "Geographical coverage"
+     #       translation_key: metadata_fields.source_geographical_coverage_1
+     #       scope: source_1
       - name: "source_url_1"
         field:
             element: text
             label: "Link to data source"
             translation_key: metadata_fields.source_url_1
-            scope: source_1
+            scope: global
       - name: "source_url_text_1"
         field:
             element: text
             label: "Link to data source text"
             translation_key: metadata_fields.source_url_text_1
             value: "Link to source"
-            scope: source_1
+            scope: global
       - name: "source_release_date_1"
         field:
             element: text
