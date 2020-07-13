@@ -1,1 +1,1 @@
-{"From":["Gebietseinheit"],"To":["Zimmer"]}
+{"From":["Gebietseinheit","Kategorien"],"To":["Kategorien","Geocode"]}
