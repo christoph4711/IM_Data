@@ -93,7 +93,7 @@ prose:
     #        scope: national
       - name: "national_indicator_description"
         field:
-            element: text
+            element: textarea
             label: "Indicator description"
             translation_key: metadata_fields.national_indicator_description
             scope: national
