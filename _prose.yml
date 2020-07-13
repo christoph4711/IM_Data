@@ -115,12 +115,12 @@ prose:
             label: "Definitions"
             translation_key: metadata_fields.computation_definitions
             scope: national
-     # - name: "computation_calculations"
-     #   field:
-     #       element: text
-     #       label: "Calculations"
-     #       translation_key: metadata_fields.computation_calculations
-     #       scope: national
+      - name: "computation_calculations"
+        field:
+            element: text
+            label: "Calculations"
+            translation_key: metadata_fields.computation_calculations
+            scope: national
       - name: "other_info"
         field:
             element: text
