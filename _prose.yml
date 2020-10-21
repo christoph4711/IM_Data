@@ -123,7 +123,7 @@ prose:
             scope: national
       - name: "other_info"
         field:
-            element: text
+            element: textarea
             label: "Analyse"
             translation_key: metadata_fields.other_info
             scope: national
@@ -344,13 +344,13 @@ prose:
             translation_key: metadata_fields.source_other_info_1
             scope: source_1
       ## Source 2
-      - name: source_active_2
-        field:
-            element: checkbox
-            label: Source 2 active
-            translation_key: metadata_fields.source_active_1
-            help: Whether or not to display this source
-            value: false
+  #    - name: source_active_2
+  #      field:
+  #          element: checkbox
+  #          label: Source 2 active
+  #          translation_key: metadata_fields.source_active_1
+  #          help: Whether or not to display this source
+  #          value: false
       - name: source_organisation_2
         field:
             element: text
