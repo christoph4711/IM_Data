@@ -118,13 +118,13 @@ prose:
       - name: "computation_calculations"
         field:
             element: textarea
-            label: "Calculations"
+            label: "Methodische Hinweise"
             translation_key: metadata_fields.computation_calculations
             scope: national
       - name: "other_info"
         field:
             element: text
-            label: "Other information"
+            label: "Analyse"
             translation_key: metadata_fields.other_info
             scope: national
      # - name: "quality_assurance"
