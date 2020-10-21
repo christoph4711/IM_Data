@@ -94,7 +94,7 @@ prose:
       - name: "national_indicator_description"
         field:
             element: textarea
-            label: "Indicator description"
+            label: "Definition des Indikators"
             translation_key: metadata_fields.national_indicator_description
             scope: national
     #  - name: "national_geographical_coverage"
