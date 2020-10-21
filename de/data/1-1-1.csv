@@ -712,3 +712,360 @@ Year,Gebietseinheit,Kategorien,GeoCode,Value
 2018,Vechta,Bestand_Jahresende,K03460,59344
 2018,Wesermarsch,Bestand_Jahresende,K03461,46418
 2018,Wittmund,Bestand_Jahresende,K03462,31261
+2012,Niedersachsen,Veraenderung_Insgesamt,K030,19916
+2012,Braunschweig,Veraenderung_Insgesamt,K031,1839
+2012,Braunschweig Stadt,Veraenderung_Insgesamt,K03101,514
+2012,Salzgitter.Stadt,Veraenderung_Insgesamt,K03102,62
+2012,Wolfsburg.Stadt,Veraenderung_Insgesamt,K03103,-37
+2012,Gifhorn,Veraenderung_Insgesamt,K03151,409
+2012,Goslar,Veraenderung_Insgesamt,K03153,32
+2012,Helmstedt,Veraenderung_Insgesamt,K03154,49
+2012,Northeim,Veraenderung_Insgesamt,K03155,80
+2012,Peine,Veraenderung_Insgesamt,K03157,262
+2012,Wolfenbüttel,Veraenderung_Insgesamt,K03158,165
+2012,Göttingen,Veraenderung_Insgesamt,K03159,303
+2012,Hannover,Veraenderung_Insgesamt,K032,4169
+2012,Hannover Region,Veraenderung_Insgesamt,K03241,2506
+2012,Hannover Landeshauptstadt,Veraenderung_Insgesamt,K03241001,1019
+2012,Diepholz,Veraenderung_Insgesamt,K03251,789
+2012,Hameln-Pyrmont,Veraenderung_Insgesamt,K03252,104
+2012,Hildesheim,Veraenderung_Insgesamt,K03254,243
+2012,Holzminden,Veraenderung_Insgesamt,K03255,48
+2012,Nienburg (Weser),Veraenderung_Insgesamt,K03256,229
+2012,Schaumburg,Veraenderung_Insgesamt,K03257,250
+2012,Lüneburg,Veraenderung_Insgesamt,K033,4287
+2012,Celle,Veraenderung_Insgesamt,K03351,130
+2012,Cuxhaven,Veraenderung_Insgesamt,K03352,618
+2012,Harburg,Veraenderung_Insgesamt,K03353,1000
+2012,Lüchow-Dannenberg,Veraenderung_Insgesamt,K03354,40
+2012,Lüneburg,Veraenderung_Insgesamt,K03355,640
+2012,Osterholz,Veraenderung_Insgesamt,K03356,318
+2012,Rotenburg (Wümme),Veraenderung_Insgesamt,K03357,434
+2012,Heidekreis,Veraenderung_Insgesamt,K03358,152
+2012,Stade,Veraenderung_Insgesamt,K03359,788
+2012,Uelzen,Veraenderung_Insgesamt,K03360,107
+2012,Verden,Veraenderung_Insgesamt,K03361,60
+2012,Weser-Ems,Veraenderung_Insgesamt,K034,9621
+2012,Delmenhorst.Stadt,Veraenderung_Insgesamt,K03401,186
+2012,Emden Stadt,Veraenderung_Insgesamt,K03402,101
+2012,Oldenburg (Oldb) Stadt,Veraenderung_Insgesamt,K03403,1060
+2012,Osnabrück Stadt,Veraenderung_Insgesamt,K03404,306
+2012,Wilhelmshaven Stadt,Veraenderung_Insgesamt,K03405,64
+2012,Ammerland,Veraenderung_Insgesamt,K03451,683
+2012,Aurich,Veraenderung_Insgesamt,K03452,656
+2012,Cloppenburg,Veraenderung_Insgesamt,K03453,884
+2012,Emsland,Veraenderung_Insgesamt,K03454,1840
+2012,Friesland,Veraenderung_Insgesamt,K03455,308
+2012,Grafschaft Bentheim,Veraenderung_Insgesamt,K03456,478
+2012,Leer,Veraenderung_Insgesamt,K03457,650
+2012,Oldenburg,Veraenderung_Insgesamt,K03458,287
+2012,Osnabrück,Veraenderung_Insgesamt,K03459,991
+2012,Vechta,Veraenderung_Insgesamt,K03460,799
+2012,Wesermarsch,Veraenderung_Insgesamt,K03461,124
+2012,Wittmund,Veraenderung_Insgesamt,K03462,204
+2013,Niedersachsen,Veraenderung_Insgesamt,K030,22696
+2013,Braunschweig,Veraenderung_Insgesamt,K031,2410
+2013,Braunschweig Stadt,Veraenderung_Insgesamt,K03101,345
+2013,Salzgitter.Stadt,Veraenderung_Insgesamt,K03102,108
+2013,Wolfsburg.Stadt,Veraenderung_Insgesamt,K03103,193
+2013,Gifhorn,Veraenderung_Insgesamt,K03151,612
+2013,Goslar,Veraenderung_Insgesamt,K03153,70
+2013,Helmstedt,Veraenderung_Insgesamt,K03154,122
+2013,Northeim,Veraenderung_Insgesamt,K03155,66
+2013,Peine,Veraenderung_Insgesamt,K03157,300
+2013,Wolfenbüttel,Veraenderung_Insgesamt,K03158,168
+2013,Göttingen,Veraenderung_Insgesamt,K03159,426
+2013,Hannover,Veraenderung_Insgesamt,K032,3748
+2013,Hannover Region,Veraenderung_Insgesamt,K03241,1978
+2013,Hannover Landeshauptstadt,Veraenderung_Insgesamt,K03241001,649
+2013,Diepholz,Veraenderung_Insgesamt,K03251,668
+2013,Hameln-Pyrmont,Veraenderung_Insgesamt,K03252,226
+2013,Hildesheim,Veraenderung_Insgesamt,K03254,389
+2013,Holzminden,Veraenderung_Insgesamt,K03255,11
+2013,Nienburg (Weser),Veraenderung_Insgesamt,K03256,246
+2013,Schaumburg,Veraenderung_Insgesamt,K03257,230
+2013,Lüneburg,Veraenderung_Insgesamt,K033,5286
+2013,Celle,Veraenderung_Insgesamt,K03351,333
+2013,Cuxhaven,Veraenderung_Insgesamt,K03352,625
+2013,Harburg,Veraenderung_Insgesamt,K03353,1121
+2013,Lüchow-Dannenberg,Veraenderung_Insgesamt,K03354,53
+2013,Lüneburg,Veraenderung_Insgesamt,K03355,775
+2013,Osterholz,Veraenderung_Insgesamt,K03356,235
+2013,Rotenburg (Wümme),Veraenderung_Insgesamt,K03357,406
+2013,Heidekreis,Veraenderung_Insgesamt,K03358,221
+2013,Stade,Veraenderung_Insgesamt,K03359,844
+2013,Uelzen,Veraenderung_Insgesamt,K03360,154
+2013,Verden,Veraenderung_Insgesamt,K03361,519
+2013,Weser-Ems,Veraenderung_Insgesamt,K034,11252
+2013,Delmenhorst.Stadt,Veraenderung_Insgesamt,K03401,157
+2013,Emden Stadt,Veraenderung_Insgesamt,K03402,103
+2013,Oldenburg (Oldb) Stadt,Veraenderung_Insgesamt,K03403,1112
+2013,Osnabrück Stadt,Veraenderung_Insgesamt,K03404,426
+2013,Wilhelmshaven Stadt,Veraenderung_Insgesamt,K03405,17
+2013,Ammerland,Veraenderung_Insgesamt,K03451,895
+2013,Aurich,Veraenderung_Insgesamt,K03452,948
+2013,Cloppenburg,Veraenderung_Insgesamt,K03453,1050
+2013,Emsland,Veraenderung_Insgesamt,K03454,1947
+2013,Friesland,Veraenderung_Insgesamt,K03455,348
+2013,Grafschaft Bentheim,Veraenderung_Insgesamt,K03456,688
+2013,Leer,Veraenderung_Insgesamt,K03457,836
+2013,Oldenburg,Veraenderung_Insgesamt,K03458,293
+2013,Osnabrück,Veraenderung_Insgesamt,K03459,956
+2013,Vechta,Veraenderung_Insgesamt,K03460,1073
+2013,Wesermarsch,Veraenderung_Insgesamt,K03461,169
+2013,Wittmund,Veraenderung_Insgesamt,K03462,234
+2014,Niedersachsen,Veraenderung_Insgesamt,K030,25560
+2014,Braunschweig,Veraenderung_Insgesamt,K031,3120
+2014,Braunschweig Stadt,Veraenderung_Insgesamt,K03101,490
+2014,Salzgitter.Stadt,Veraenderung_Insgesamt,K03102,55
+2014,Wolfsburg.Stadt,Veraenderung_Insgesamt,K03103,404
+2014,Gifhorn,Veraenderung_Insgesamt,K03151,723
+2014,Goslar,Veraenderung_Insgesamt,K03153,109
+2014,Helmstedt,Veraenderung_Insgesamt,K03154,182
+2014,Northeim,Veraenderung_Insgesamt,K03155,92
+2014,Peine,Veraenderung_Insgesamt,K03157,294
+2014,Wolfenbüttel,Veraenderung_Insgesamt,K03158,221
+2014,Göttingen,Veraenderung_Insgesamt,K03159,550
+2014,Hannover,Veraenderung_Insgesamt,K032,4207
+2014,Hannover Region,Veraenderung_Insgesamt,K03241,2499
+2014,Hannover Landeshauptstadt,Veraenderung_Insgesamt,K03241001,1054
+2014,Diepholz,Veraenderung_Insgesamt,K03251,697
+2014,Hameln-Pyrmont,Veraenderung_Insgesamt,K03252,175
+2014,Hildesheim,Veraenderung_Insgesamt,K03254,404
+2014,Holzminden,Veraenderung_Insgesamt,K03255,15
+2014,Nienburg (Weser),Veraenderung_Insgesamt,K03256,217
+2014,Schaumburg,Veraenderung_Insgesamt,K03257,200
+2014,Lüneburg,Veraenderung_Insgesamt,K033,5905
+2014,Celle,Veraenderung_Insgesamt,K03351,368
+2014,Cuxhaven,Veraenderung_Insgesamt,K03352,786
+2014,Harburg,Veraenderung_Insgesamt,K03353,1150
+2014,Lüchow-Dannenberg,Veraenderung_Insgesamt,K03354,100
+2014,Lüneburg,Veraenderung_Insgesamt,K03355,527
+2014,Osterholz,Veraenderung_Insgesamt,K03356,361
+2014,Rotenburg (Wümme),Veraenderung_Insgesamt,K03357,621
+2014,Heidekreis,Veraenderung_Insgesamt,K03358,266
+2014,Stade,Veraenderung_Insgesamt,K03359,1079
+2014,Uelzen,Veraenderung_Insgesamt,K03360,199
+2014,Verden,Veraenderung_Insgesamt,K03361,448
+2014,Weser-Ems,Veraenderung_Insgesamt,K034,12328
+2014,Delmenhorst.Stadt,Veraenderung_Insgesamt,K03401,226
+2014,Emden Stadt,Veraenderung_Insgesamt,K03402,302
+2014,Oldenburg (Oldb) Stadt,Veraenderung_Insgesamt,K03403,750
+2014,Osnabrück Stadt,Veraenderung_Insgesamt,K03404,364
+2014,Wilhelmshaven Stadt,Veraenderung_Insgesamt,K03405,125
+2014,Ammerland,Veraenderung_Insgesamt,K03451,690
+2014,Aurich,Veraenderung_Insgesamt,K03452,810
+2014,Cloppenburg,Veraenderung_Insgesamt,K03453,1222
+2014,Emsland,Veraenderung_Insgesamt,K03454,2463
+2014,Friesland,Veraenderung_Insgesamt,K03455,537
+2014,Grafschaft Bentheim,Veraenderung_Insgesamt,K03456,850
+2014,Leer,Veraenderung_Insgesamt,K03457,806
+2014,Oldenburg,Veraenderung_Insgesamt,K03458,345
+2014,Osnabrück,Veraenderung_Insgesamt,K03459,1328
+2014,Vechta,Veraenderung_Insgesamt,K03460,1083
+2014,Wesermarsch,Veraenderung_Insgesamt,K03461,140
+2014,Wittmund,Veraenderung_Insgesamt,K03462,287
+2015,Niedersachsen,Veraenderung_Insgesamt,K030,25408
+2015,Braunschweig,Veraenderung_Insgesamt,K031,3063
+2015,Braunschweig Stadt,Veraenderung_Insgesamt,K03101,403
+2015,Salzgitter.Stadt,Veraenderung_Insgesamt,K03102,58
+2015,Wolfsburg.Stadt,Veraenderung_Insgesamt,K03103,219
+2015,Gifhorn,Veraenderung_Insgesamt,K03151,693
+2015,Goslar,Veraenderung_Insgesamt,K03153,73
+2015,Helmstedt,Veraenderung_Insgesamt,K03154,133
+2015,Northeim,Veraenderung_Insgesamt,K03155,96
+2015,Peine,Veraenderung_Insgesamt,K03157,544
+2015,Wolfenbüttel,Veraenderung_Insgesamt,K03158,312
+2015,Göttingen,Veraenderung_Insgesamt,K03159,532
+2015,Hannover,Veraenderung_Insgesamt,K032,4818
+2015,Hannover Region,Veraenderung_Insgesamt,K03241,2731
+2015,Hannover Landeshauptstadt,Veraenderung_Insgesamt,K03241001,1231
+2015,Diepholz,Veraenderung_Insgesamt,K03251,749
+2015,Hameln-Pyrmont,Veraenderung_Insgesamt,K03252,147
+2015,Hildesheim,Veraenderung_Insgesamt,K03254,475
+2015,Holzminden,Veraenderung_Insgesamt,K03255,81
+2015,Nienburg (Weser),Veraenderung_Insgesamt,K03256,297
+2015,Schaumburg,Veraenderung_Insgesamt,K03257,338
+2015,Lüneburg,Veraenderung_Insgesamt,K033,6215
+2015,Celle,Veraenderung_Insgesamt,K03351,389
+2015,Cuxhaven,Veraenderung_Insgesamt,K03352,600
+2015,Harburg,Veraenderung_Insgesamt,K03353,1088
+2015,Lüchow-Dannenberg,Veraenderung_Insgesamt,K03354,77
+2015,Lüneburg,Veraenderung_Insgesamt,K03355,776
+2015,Osterholz,Veraenderung_Insgesamt,K03356,339
+2015,Rotenburg (Wümme),Veraenderung_Insgesamt,K03357,538
+2015,Heidekreis,Veraenderung_Insgesamt,K03358,255
+2015,Stade,Veraenderung_Insgesamt,K03359,1363
+2015,Uelzen,Veraenderung_Insgesamt,K03360,111
+2015,Verden,Veraenderung_Insgesamt,K03361,679
+2015,Weser-Ems,Veraenderung_Insgesamt,K034,11312
+2015,Delmenhorst.Stadt,Veraenderung_Insgesamt,K03401,148
+2015,Emden Stadt,Veraenderung_Insgesamt,K03402,76
+2015,Oldenburg (Oldb) Stadt,Veraenderung_Insgesamt,K03403,1094
+2015,Osnabrück Stadt,Veraenderung_Insgesamt,K03404,501
+2015,Wilhelmshaven Stadt,Veraenderung_Insgesamt,K03405,54
+2015,Ammerland,Veraenderung_Insgesamt,K03451,547
+2015,Aurich,Veraenderung_Insgesamt,K03452,820
+2015,Cloppenburg,Veraenderung_Insgesamt,K03453,925
+2015,Emsland,Veraenderung_Insgesamt,K03454,1983
+2015,Friesland,Veraenderung_Insgesamt,K03455,389
+2015,Grafschaft Bentheim,Veraenderung_Insgesamt,K03456,765
+2015,Leer,Veraenderung_Insgesamt,K03457,931
+2015,Oldenburg,Veraenderung_Insgesamt,K03458,535
+2015,Osnabrück,Veraenderung_Insgesamt,K03459,1243
+2015,Vechta,Veraenderung_Insgesamt,K03460,818
+2015,Wesermarsch,Veraenderung_Insgesamt,K03461,124
+2015,Wittmund,Veraenderung_Insgesamt,K03462,359
+2016,Niedersachsen,Veraenderung_Insgesamt,K030,29230
+2016,Braunschweig,Veraenderung_Insgesamt,K031,3889
+2016,Braunschweig Stadt,Veraenderung_Insgesamt,K03101,432
+2016,Salzgitter.Stadt,Veraenderung_Insgesamt,K03102,79
+2016,Wolfsburg.Stadt,Veraenderung_Insgesamt,K03103,655
+2016,Gifhorn,Veraenderung_Insgesamt,K03151,732
+2016,Goslar,Veraenderung_Insgesamt,K03153,121
+2016,Helmstedt,Veraenderung_Insgesamt,K03154,240
+2016,Northeim,Veraenderung_Insgesamt,K03155,123
+2016,Peine,Veraenderung_Insgesamt,K03157,476
+2016,Wolfenbüttel,Veraenderung_Insgesamt,K03158,377
+2016,Göttingen,Veraenderung_Insgesamt,K03159,654
+2016,Hannover,Veraenderung_Insgesamt,K032,4708
+2016,Hannover Region,Veraenderung_Insgesamt,K03241,2653
+2016,Hannover Landeshauptstadt,Veraenderung_Insgesamt,K03241001,905
+2016,Diepholz,Veraenderung_Insgesamt,K03251,769
+2016,Hameln-Pyrmont,Veraenderung_Insgesamt,K03252,93
+2016,Hildesheim,Veraenderung_Insgesamt,K03254,480
+2016,Holzminden,Veraenderung_Insgesamt,K03255,58
+2016,Nienburg (Weser),Veraenderung_Insgesamt,K03256,392
+2016,Schaumburg,Veraenderung_Insgesamt,K03257,263
+2016,Lüneburg,Veraenderung_Insgesamt,K033,7667
+2016,Celle,Veraenderung_Insgesamt,K03351,523
+2016,Cuxhaven,Veraenderung_Insgesamt,K03352,875
+2016,Harburg,Veraenderung_Insgesamt,K03353,1536
+2016,Lüchow-Dannenberg,Veraenderung_Insgesamt,K03354,166
+2016,Lüneburg,Veraenderung_Insgesamt,K03355,797
+2016,Osterholz,Veraenderung_Insgesamt,K03356,354
+2016,Rotenburg (Wümme),Veraenderung_Insgesamt,K03357,722
+2016,Heidekreis,Veraenderung_Insgesamt,K03358,476
+2016,Stade,Veraenderung_Insgesamt,K03359,1213
+2016,Uelzen,Veraenderung_Insgesamt,K03360,413
+2016,Verden,Veraenderung_Insgesamt,K03361,592
+2016,Weser-Ems,Veraenderung_Insgesamt,K034,12966
+2016,Delmenhorst.Stadt,Veraenderung_Insgesamt,K03401,195
+2016,Emden Stadt,Veraenderung_Insgesamt,K03402,130
+2016,Oldenburg (Oldb) Stadt,Veraenderung_Insgesamt,K03403,1342
+2016,Osnabrück Stadt,Veraenderung_Insgesamt,K03404,691
+2016,Wilhelmshaven Stadt,Veraenderung_Insgesamt,K03405,96
+2016,Ammerland,Veraenderung_Insgesamt,K03451,790
+2016,Aurich,Veraenderung_Insgesamt,K03452,794
+2016,Cloppenburg,Veraenderung_Insgesamt,K03453,1334
+2016,Emsland,Veraenderung_Insgesamt,K03454,2139
+2016,Friesland,Veraenderung_Insgesamt,K03455,539
+2016,Grafschaft Bentheim,Veraenderung_Insgesamt,K03456,580
+2016,Leer,Veraenderung_Insgesamt,K03457,862
+2016,Oldenburg,Veraenderung_Insgesamt,K03458,477
+2016,Osnabrück,Veraenderung_Insgesamt,K03459,1280
+2016,Vechta,Veraenderung_Insgesamt,K03460,1184
+2016,Wesermarsch,Veraenderung_Insgesamt,K03461,183
+2016,Wittmund,Veraenderung_Insgesamt,K03462,350
+2017,Niedersachsen,Veraenderung_Insgesamt,K030,28603
+2017,Braunschweig,Veraenderung_Insgesamt,K031,4074
+2017,Braunschweig Stadt,Veraenderung_Insgesamt,K03101,299
+2017,Salzgitter.Stadt,Veraenderung_Insgesamt,K03102,107
+2017,Wolfsburg.Stadt,Veraenderung_Insgesamt,K03103,449
+2017,Gifhorn,Veraenderung_Insgesamt,K03151,1028
+2017,Goslar,Veraenderung_Insgesamt,K03153,145
+2017,Helmstedt,Veraenderung_Insgesamt,K03154,252
+2017,Northeim,Veraenderung_Insgesamt,K03155,220
+2017,Peine,Veraenderung_Insgesamt,K03157,690
+2017,Wolfenbüttel,Veraenderung_Insgesamt,K03158,198
+2017,Göttingen,Veraenderung_Insgesamt,K03159,686
+2017,Hannover,Veraenderung_Insgesamt,K032,5013
+2017,Hannover Region,Veraenderung_Insgesamt,K03241,3113
+2017,Hannover Landeshauptstadt,Veraenderung_Insgesamt,K03241001,1100
+2017,Diepholz,Veraenderung_Insgesamt,K03251,710
+2017,Hameln-Pyrmont,Veraenderung_Insgesamt,K03252,142
+2017,Hildesheim,Veraenderung_Insgesamt,K03254,450
+2017,Holzminden,Veraenderung_Insgesamt,K03255,47
+2017,Nienburg (Weser),Veraenderung_Insgesamt,K03256,252
+2017,Schaumburg,Veraenderung_Insgesamt,K03257,299
+2017,Lüneburg,Veraenderung_Insgesamt,K033,7003
+2017,Celle,Veraenderung_Insgesamt,K03351,345
+2017,Cuxhaven,Veraenderung_Insgesamt,K03352,733
+2017,Harburg,Veraenderung_Insgesamt,K03353,1068
+2017,Lüchow-Dannenberg,Veraenderung_Insgesamt,K03354,39
+2017,Lüneburg,Veraenderung_Insgesamt,K03355,1365
+2017,Osterholz,Veraenderung_Insgesamt,K03356,393
+2017,Rotenburg (Wümme),Veraenderung_Insgesamt,K03357,749
+2017,Heidekreis,Veraenderung_Insgesamt,K03358,301
+2017,Stade,Veraenderung_Insgesamt,K03359,1341
+2017,Uelzen,Veraenderung_Insgesamt,K03360,130
+2017,Verden,Veraenderung_Insgesamt,K03361,539
+2017,Weser-Ems,Veraenderung_Insgesamt,K034,12513
+2017,Delmenhorst.Stadt,Veraenderung_Insgesamt,K03401,210
+2017,Emden Stadt,Veraenderung_Insgesamt,K03402,223
+2017,Oldenburg (Oldb) Stadt,Veraenderung_Insgesamt,K03403,1330
+2017,Osnabrück Stadt,Veraenderung_Insgesamt,K03404,429
+2017,Wilhelmshaven Stadt,Veraenderung_Insgesamt,K03405,71
+2017,Ammerland,Veraenderung_Insgesamt,K03451,622
+2017,Aurich,Veraenderung_Insgesamt,K03452,769
+2017,Cloppenburg,Veraenderung_Insgesamt,K03453,1290
+2017,Emsland,Veraenderung_Insgesamt,K03454,2234
+2017,Friesland,Veraenderung_Insgesamt,K03455,481
+2017,Grafschaft Bentheim,Veraenderung_Insgesamt,K03456,832
+2017,Leer,Veraenderung_Insgesamt,K03457,913
+2017,Oldenburg,Veraenderung_Insgesamt,K03458,436
+2017,Osnabrück,Veraenderung_Insgesamt,K03459,1301
+2017,Vechta,Veraenderung_Insgesamt,K03460,924
+2017,Wesermarsch,Veraenderung_Insgesamt,K03461,158
+2017,Wittmund,Veraenderung_Insgesamt,K03462,290
+2018,Niedersachsen,Veraenderung_Insgesamt,K030,27284
+2018,Braunschweig,Veraenderung_Insgesamt,K031,3615
+2018,Braunschweig Stadt,Veraenderung_Insgesamt,K03101,630
+2018,Salzgitter.Stadt,Veraenderung_Insgesamt,K03102,80
+2018,Wolfsburg.Stadt,Veraenderung_Insgesamt,K03103,220
+2018,Gifhorn,Veraenderung_Insgesamt,K03151,831
+2018,Goslar,Veraenderung_Insgesamt,K03153,67
+2018,Helmstedt,Veraenderung_Insgesamt,K03154,287
+2018,Northeim,Veraenderung_Insgesamt,K03155,204
+2018,Peine,Veraenderung_Insgesamt,K03157,525
+2018,Wolfenbüttel,Veraenderung_Insgesamt,K03158,256
+2018,Göttingen,Veraenderung_Insgesamt,K03159,515
+2018,Hannover,Veraenderung_Insgesamt,K032,5449
+2018,Hannover Region,Veraenderung_Insgesamt,K03241,3185
+2018,Hannover Landeshauptstadt,Veraenderung_Insgesamt,K03241001,1532
+2018,Diepholz,Veraenderung_Insgesamt,K03251,777
+2018,Hameln-Pyrmont,Veraenderung_Insgesamt,K03252,104
+2018,Hildesheim,Veraenderung_Insgesamt,K03254,559
+2018,Holzminden,Veraenderung_Insgesamt,K03255,69
+2018,Nienburg (Weser),Veraenderung_Insgesamt,K03256,353
+2018,Schaumburg,Veraenderung_Insgesamt,K03257,402
+2018,Lüneburg,Veraenderung_Insgesamt,K033,6013
+2018,Celle,Veraenderung_Insgesamt,K03351,567
+2018,Cuxhaven,Veraenderung_Insgesamt,K03352,570
+2018,Harburg,Veraenderung_Insgesamt,K03353,862
+2018,Lüchow-Dannenberg,Veraenderung_Insgesamt,K03354,99
+2018,Lüneburg,Veraenderung_Insgesamt,K03355,609
+2018,Osterholz,Veraenderung_Insgesamt,K03356,364
+2018,Rotenburg (Wümme),Veraenderung_Insgesamt,K03357,628
+2018,Heidekreis,Veraenderung_Insgesamt,K03358,343
+2018,Stade,Veraenderung_Insgesamt,K03359,1383
+2018,Uelzen,Veraenderung_Insgesamt,K03360,179
+2018,Verden,Veraenderung_Insgesamt,K03361,409
+2018,Weser-Ems,Veraenderung_Insgesamt,K034,12207
+2018,Delmenhorst.Stadt,Veraenderung_Insgesamt,K03401,219
+2018,Emden Stadt,Veraenderung_Insgesamt,K03402,66
+2018,Oldenburg (Oldb) Stadt,Veraenderung_Insgesamt,K03403,1205
+2018,Osnabrück Stadt,Veraenderung_Insgesamt,K03404,576
+2018,Wilhelmshaven Stadt,Veraenderung_Insgesamt,K03405,121
+2018,Ammerland,Veraenderung_Insgesamt,K03451,805
+2018,Aurich,Veraenderung_Insgesamt,K03452,575
+2018,Cloppenburg,Veraenderung_Insgesamt,K03453,1319
+2018,Emsland,Veraenderung_Insgesamt,K03454,1901
+2018,Friesland,Veraenderung_Insgesamt,K03455,576
+2018,Grafschaft Bentheim,Veraenderung_Insgesamt,K03456,532
+2018,Leer,Veraenderung_Insgesamt,K03457,707
+2018,Oldenburg,Veraenderung_Insgesamt,K03458,624
+2018,Osnabrück,Veraenderung_Insgesamt,K03459,1391
+2018,Vechta,Veraenderung_Insgesamt,K03460,1093
+2018,Wesermarsch,Veraenderung_Insgesamt,K03461,258
+2018,Wittmund,Veraenderung_Insgesamt,K03462,239
