@@ -179,7 +179,7 @@ prose:
       - name: "reporting_status"
         field:
             element: select
-            label: "Reporting status"
+            label: "Veröffentlichungsstatus"
             translation_key: metadata_fields.reporting_status
             options:
               - name: 'complete'
@@ -206,7 +206,7 @@ prose:
       - name: data_footnote
         field:
             element: text
-            label: Footnote
+            label: Fußnote
             translation_key: metadata_fields.data_footnote
             help: Footnotes appear under the chart and by data tables
             scope: data
@@ -224,13 +224,13 @@ prose:
             translation_key: metadata_fields.data_geocode_regex
             help: A regex on which geocodes to include
             scope: data
-      - name: data_keywords
-        field:
-            element: text
-            label: Search Keywords
-            translation_key: metadata_fields.data_keywords
-            help: Comma separated keywords for search page
-            scope: data
+    #  - name: data_keywords
+    #    field:
+    #        element: text
+    #        label: Search Keywords
+    #        translation_key: metadata_fields.data_keywords
+    #        help: Comma separated keywords for search page
+    #        scope: data
       - name: data_show_map
         field:
             element: checkbox
@@ -249,7 +249,7 @@ prose:
       - name: "graph_type"
         field:
             element: select
-            label: "Graph type"
+            label: "Art des Diagramms"
             translation_key: metadata_fields.graph_type
             options:
               - name: 'line'
@@ -278,24 +278,6 @@ prose:
             label: "Organisation"
             translation_key: metadata_fields.source_organisation_1
             scope: source_1
-     # - name: "source_periodicity_1"
-     #   field:
-     #       element: text
-     #       label: "Periodicity"
-     #       translation_key: metadata_fields.source_periodicity_1
-     #       scope: source_1
-     # - name: "source_earliest_available_1"
-     #   field:
-     #       element: text
-     #       label: "Earliest available data"
-     #       translation_key: metadata_fields.source_earliest_available_1
-     #       scope: source_1
-     # - name: "source_geographical_coverage_1"
-     #   field:
-     #       element: text
-     #       label: "Geographical coverage"
-     #       translation_key: metadata_fields.source_geographical_coverage_1
-     #       scope: source_1
       - name: "source_url_1"
         field:
             element: text
@@ -343,6 +325,6 @@ prose:
             label: "Other information"
             translation_key: metadata_fields.source_other_info_1
             scope: source_1
-      
+
 
   ignore: ['/scripts', '/.github']
