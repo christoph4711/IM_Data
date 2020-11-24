@@ -1,10 +1,9 @@
-
 Year,Gebietseinheit,Kategorien,GeoCode,Value
 2012,Niedersachsen,Neubau_Anteil,K030,96.4
 2012,Braunschweig,Neubau_Anteil,K031,116.3
 2012,Braunschweig Stadt,Neubau_Anteil,K03101,88.5
 2012,Salzgitter.Stadt,Neubau_Anteil,K03102,104.8
-2012,Wolfsburg.Stadt,Neubau_Anteil,K03103,-751.4
+2012,Wolfsburg.Stadt,Neubau_Anteil,K03103,0
 2012,Gifhorn,Neubau_Anteil,K03151,93.6
 2012,Goslar,Neubau_Anteil,K03153,93.8
 2012,Helmstedt,Neubau_Anteil,K03154,95.9
@@ -32,7 +31,7 @@ Year,Gebietseinheit,Kategorien,GeoCode,Value
 2012,Heidekreis,Neubau_Anteil,K03358,90.8
 2012,Stade,Neubau_Anteil,K03359,94.7
 2012,Uelzen,Neubau_Anteil,K03360,86
-2012,Verden,Neubau_Anteil,K03361,590
+2012,Verden,Neubau_Anteil,K03361,0
 2012,Weser-Ems,Neubau_Anteil,K034,91.5
 2012,Delmenhorst.Stadt,Neubau_Anteil,K03401,98.9
 2012,Emden Stadt,Neubau_Anteil,K03402,90.1
