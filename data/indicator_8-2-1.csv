@@ -1,6 +1,6 @@
 Year;Gebietseinheit;Kategorien;GeoCode;Value
 1991;Niedersachsen;Fälle;K030;21668
-1992;Niedersachsen;Flle;K030;24520
+1992;Niedersachsen;Fälle;K030;24520
 1993;Niedersachsen;Fälle;K030;29098
 1994;Niedersachsen;Fälle;K030;30033
 1995;Niedersachsen;Fälle;K030;24141
@@ -57,93 +57,93 @@ Year;Gebietseinheit;Kategorien;GeoCode;Value
 2017;Braunschweig;Fälle;;2233
 2018;Braunschweig;Fälle;;2312
 2019;Braunschweig;Fälle;;2508
-1991;Braunschweig,Stadt;Fälle;K03101;228
-1992;Braunschweig,Stadt;Fälle;K03101;206
-1993;Braunschweig,Stadt;Fälle;K03101;182
-1994;Braunschweig,Stadt;Fälle;K03101;124
-1995;Braunschweig,Stadt;Fälle;K03101;101
-1996;Braunschweig,Stadt;Fälle;K03101;222
-1997;Braunschweig,Stadt;Fälle;K03101;176
-1998;Braunschweig,Stadt;Fälle;K03101;190
-1999;Braunschweig,Stadt;Fälle;K03101;240
-2000;Braunschweig,Stadt;Fälle;K03101;256
-2001;Braunschweig,Stadt;Fälle;K03101;306
-2002;Braunschweig,Stadt;Fälle;K03101;400
-2003;Braunschweig,Stadt;Fälle;K03101;548
-2004;Braunschweig,Stadt;Fälle;K03101;314
-2005;Braunschweig,Stadt;Fälle;K03101;535
-2006;Braunschweig,Stadt;Fälle;K03101;271
-2007;Braunschweig,Stadt;Fälle;K03101;231
-2008;Braunschweig,Stadt;Fälle;K03101;193
-2009;Braunschweig,Stadt;Fälle;K03101;264
-2010;Braunschweig,Stadt;Fälle;K03101;350
-2011;Braunschweig,Stadt;Fälle;K03101;131
-2012;Braunschweig,Stadt;Fälle;K03101;240
-2013;Braunschweig,Stadt;Fälle;K03101;131
-2014;Braunschweig,Stadt;Fälle;K03101;202
-2015;Braunschweig,Stadt;Fälle;K03101;129
-2016;Braunschweig,Stadt;Fälle;K03101;159
-2017;Braunschweig,Stadt;Fälle;K03101;201
-2018;Braunschweig,Stadt;Fälle;K03101;162
-2019;Braunschweig,Stadt;Fälle;K03101;143
-1991;Salzgitter,Stadt;Fälle;K03102;56
-1992;Salzgitter,Stadt;Fälle;K03102;293
-1993;Salzgitter,Stadt;Fälle;K03102;196
-1994;Salzgitter,Stadt;Fälle;K03102;242
-1995;Salzgitter,Stadt;Fälle;K03102;108
-1996;Salzgitter,Stadt;Fälle;K03102;143
-1997;Salzgitter,Stadt;Fälle;K03102;110
-1998;Salzgitter,Stadt;Fälle;K03102;155
-1999;Salzgitter,Stadt;Fälle;K03102;224
-2000;Salzgitter,Stadt;Fälle;K03102;195
-2001;Salzgitter,Stadt;Fälle;K03102;117
-2002;Salzgitter,Stadt;Fälle;K03102;169
-2003;Salzgitter,Stadt;Fälle;K03102;161
-2004;Salzgitter,Stadt;Fälle;K03102;109
-2005;Salzgitter,Stadt;Fälle;K03102;84
-2006;Salzgitter,Stadt;Fälle;K03102;99
-2007;Salzgitter,Stadt;Fälle;K03102;77
-2008;Salzgitter,Stadt;Fälle;K03102;84
-2009;Salzgitter,Stadt;Fälle;K03102;29
-2010;Salzgitter,Stadt;Fälle;K03102;72
-2011;Salzgitter,Stadt;Fälle;K03102;75
-2012;Salzgitter,Stadt;Fälle;K03102;94
-2013;Salzgitter,Stadt;Fälle;K03102;69
-2014;Salzgitter,Stadt;Fälle;K03102;47
-2015;Salzgitter,Stadt;Fälle;K03102;95
-2016;Salzgitter,Stadt;Fälle;K03102;87
-2017;Salzgitter,Stadt;Fälle;K03102;71
-2018;Salzgitter,Stadt;Fälle;K03102;71
-2019;Salzgitter,Stadt;Fälle;K03102;88
-1991;Wolfsburg,Stadt;Fälle;K03103;89
-1992;Wolfsburg,Stadt;Fälle;K03103;88
-1993;Wolfsburg,Stadt;Fälle;K03103;61
-1994;Wolfsburg,Stadt;Fälle;K03103;73
-1995;Wolfsburg,Stadt;Fälle;K03103;85
-1996;Wolfsburg,Stadt;Fälle;K03103;132
-1997;Wolfsburg,Stadt;Fälle;K03103;211
-1998;Wolfsburg,Stadt;Fälle;K03103;209
-1999;Wolfsburg,Stadt;Fälle;K03103;344
-2000;Wolfsburg,Stadt;Fälle;K03103;316
-2001;Wolfsburg,Stadt;Fälle;K03103;184
-2002;Wolfsburg,Stadt;Fälle;K03103;368
-2003;Wolfsburg,Stadt;Fälle;K03103;455
-2004;Wolfsburg,Stadt;Fälle;K03103;294
-2005;Wolfsburg,Stadt;Fälle;K03103;354
-2006;Wolfsburg,Stadt;Fälle;K03103;277
-2007;Wolfsburg,Stadt;Fälle;K03103;239
-2008;Wolfsburg,Stadt;Fälle;K03103;256
-2009;Wolfsburg,Stadt;Fälle;K03103;202
-2010;Wolfsburg,Stadt;Fälle;K03103;204
-2011;Wolfsburg,Stadt;Fälle;K03103;275
-2012;Wolfsburg,Stadt;Fälle;K03103;125
-2013;Wolfsburg,Stadt;Fälle;K03103;106
-2014;Wolfsburg,Stadt;Fälle;K03103;49
-2015;Wolfsburg,Stadt;Fälle;K03103;354
-2016;Wolfsburg,Stadt;Fälle;K03103;115
-2017;Wolfsburg,Stadt;Fälle;K03103;96
-2018;Wolfsburg,Stadt;Fälle;K03103;169
-2019;Wolfsburg,Stadt;Fälle;K03103;79
+1991;Braunschweig-Stadt;Fälle;K03101;228
+1992;Braunschweig-Stadt;Fälle;K03101;206
+1993;Braunschweig-Stadt;Fälle;K03101;182
+1994;Braunschweig-Stadt;Fälle;K03101;124
+1995;Braunschweig-Stadt;Fälle;K03101;101
+1996;Braunschweig-Stadt;Fälle;K03101;222
+1997;Braunschweig-Stadt;Fälle;K03101;176
+1998;Braunschweig-Stadt;Fälle;K03101;190
+1999;Braunschweig-Stadt;Fälle;K03101;240
+2000;Braunschweig-Stadt;Fälle;K03101;256
+2001;Braunschweig-Stadt;Fälle;K03101;306
+2002;Braunschweig-Stadt;Fälle;K03101;400
+2003;Braunschweig-Stadt;Fälle;K03101;548
+2004;Braunschweig-Stadt;Fälle;K03101;314
+2005;Braunschweig-Stadt;Fälle;K03101;535
+2006;Braunschweig-Stadt;Fälle;K03101;271
+2007;Braunschweig-Stadt;Fälle;K03101;231
+2008;Braunschweig-Stadt;Fälle;K03101;193
+2009;Braunschweig-Stadt;Fälle;K03101;264
+2010;Braunschweig-Stadt;Fälle;K03101;350
+2011;Braunschweig-Stadt;Fälle;K03101;131
+2012;Braunschweig-Stadt;Fälle;K03101;240
+2013;Braunschweig-Stadt;Fälle;K03101;131
+2014;Braunschweig-Stadt;Fälle;K03101;202
+2015;Braunschweig-Stadt;Fälle;K03101;129
+2016;Braunschweig-Stadt;Fälle;K03101;159
+2017;Braunschweig-Stadt;Fälle;K03101;201
+2018;Braunschweig-Stadt;Fälle;K03101;162
+2019;Braunschweig-Stadt;Fälle;K03101;143
+1991;Salzgitter-Stadt;Fälle;K03102;56
+1992;Salzgitter-Stadt;Fälle;K03102;293
+1993;Salzgitter-Stadt;Fälle;K03102;196
+1994;Salzgitter-Stadt;Fälle;K03102;242
+1995;Salzgitter-Stadt;Fälle;K03102;108
+1996;Salzgitter-Stadt;Fälle;K03102;143
+1997;Salzgitter-Stadt;Fälle;K03102;110
+1998;Salzgitter-Stadt;Fälle;K03102;155
+1999;Salzgitter-Stadt;Fälle;K03102;224
+2000;Salzgitter-Stadt;Fälle;K03102;195
+2001;Salzgitter-Stadt;Fälle;K03102;117
+2002;Salzgitter-Stadt;Fälle;K03102;169
+2003;Salzgitter-Stadt;Fälle;K03102;161
+2004;Salzgitter-Stadt;Fälle;K03102;109
+2005;Salzgitter-Stadt;Fälle;K03102;84
+2006;Salzgitter-Stadt;Fälle;K03102;99
+2007;Salzgitter-Stadt;Fälle;K03102;77
+2008;Salzgitter-Stadt;Fälle;K03102;84
+2009;Salzgitter-Stadt;Fälle;K03102;29
+2010;Salzgitter-Stadt;Fälle;K03102;72
+2011;Salzgitter-Stadt;Fälle;K03102;75
+2012;Salzgitter-Stadt;Fälle;K03102;94
+2013;Salzgitter-Stadt;Fälle;K03102;69
+2014;Salzgitter-Stadt;Fälle;K03102;47
+2015;Salzgitter-Stadt;Fälle;K03102;95
+2016;Salzgitter-Stadt;Fälle;K03102;87
+2017;Salzgitter-Stadt;Fälle;K03102;71
+2018;Salzgitter-Stadt;Fälle;K03102;71
+2019;Salzgitter-Stadt;Fälle;K03102;88
+1991;Wolfsburg-Stadt;Fälle;K03103;89
+1992;Wolfsburg-Stadt;Fälle;K03103;88
+1993;Wolfsburg-Stadt;Fälle;K03103;61
+1994;Wolfsburg-Stadt;Fälle;K03103;73
+1995;Wolfsburg-Stadt;Fälle;K03103;85
+1996;Wolfsburg-Stadt;Fälle;K03103;132
+1997;Wolfsburg-Stadt;Fälle;K03103;211
+1998;Wolfsburg-Stadt;Fälle;K03103;209
+1999;Wolfsburg-Stadt;Fälle;K03103;344
+2000;Wolfsburg-Stadt;Fälle;K03103;316
+2001;Wolfsburg-Stadt;Fälle;K03103;184
+2002;Wolfsburg-Stadt;Fälle;K03103;368
+2003;Wolfsburg-Stadt;Fälle;K03103;455
+2004;Wolfsburg-Stadt;Fälle;K03103;294
+2005;Wolfsburg-Stadt;Fälle;K03103;354
+2006;Wolfsburg-Stadt;Fälle;K03103;277
+2007;Wolfsburg-Stadt;Fälle;K03103;239
+2008;Wolfsburg-Stadt;Fälle;K03103;256
+2009;Wolfsburg-Stadt;Fälle;K03103;202
+2010;Wolfsburg-Stadt;Fälle;K03103;204
+2011;Wolfsburg-Stadt;Fälle;K03103;275
+2012;Wolfsburg-Stadt;Fälle;K03103;125
+2013;Wolfsburg-Stadt;Fälle;K03103;106
+2014;Wolfsburg-Stadt;Fälle;K03103;49
+2015;Wolfsburg-Stadt;Fälle;K03103;354
+2016;Wolfsburg-Stadt;Fälle;K03103;115
+2017;Wolfsburg-Stadt;Fälle;K03103;96
+2018;Wolfsburg-Stadt;Fälle;K03103;169
+2019;Wolfsburg-Stadt;Fälle;K03103;79
 1991;Gifhorn;Fälle;K03151;978
 1992;Gifhorn;Fälle;K03151;733
 1993;Gifhorn;Fälle;K03151;1018
@@ -289,64 +289,64 @@ Year;Gebietseinheit;Kategorien;GeoCode;Value
 2017;Peine;Fälle;K03157;420
 2018;Peine;Fälle;K03157;426
 2019;Peine;Fälle;K03157;372
-1991;Wolfenbättel;Fälle;K03158;304
-1992;Wolfenbättel;Fälle;K03158;360
-1993;Wolfenbättel;Fälle;K03158;635
-1994;Wolfenbättel;Fälle;K03158;467
-1995;Wolfenbättel;Fälle;K03158;454
-1996;Wolfenbättel;Fälle;K03158;656
-1997;Wolfenbättel;Fälle;K03158;483
-1998;Wolfenbättel;Fälle;K03158;650
-1999;Wolfenbättel;Fälle;K03158;616
-2000;Wolfenbättel;Fälle;K03158;513
-2001;Wolfenbättel;Fälle;K03158;369
-2002;Wolfenbättel;Fälle;K03158;387
-2003;Wolfenbättel;Fälle;K03158;297
-2004;Wolfenbättel;Fälle;K03158;202
-2005;Wolfenbättel;Fälle;K03158;284
-2006;Wolfenbättel;Fälle;K03158;157
-2007;Wolfenbättel;Fälle;K03158;148
-2008;Wolfenbättel;Fälle;K03158;161
-2009;Wolfenbättel;Fälle;K03158;154
-2010;Wolfenbättel;Fälle;K03158;164
-2011;Wolfenbättel;Fälle;K03158;163
-2012;Wolfenbättel;Fälle;K03158;178
-2013;Wolfenbättel;Fälle;K03158;163
-2014;Wolfenbättel;Fälle;K03158;262
-2015;Wolfenbättel;Fälle;K03158;223
-2016;Wolfenbättel;Fälle;K03158;232
-2017;Wolfenbättel;Fälle;K03158;177
-2018;Wolfenbättel;Fälle;K03158;149
-2019;Wolfenbättel;Fälle;K03158;349
-1991;Gättingen;Fälle;K03159;510
-1992;Gättingen;Fälle;K03159;736
-1993;Gättingen;Fälle;K03159;829
-1994;Gättingen;Fälle;K03159;712
-1995;Gättingen;Fälle;K03159;659
-1996;Gättingen;Fälle;K03159;840
-1997;Gättingen;Fälle;K03159;677
-1998;Gättingen;Fälle;K03159;755
-1999;Gättingen;Fälle;K03159;715
-2000;Gättingen;Fälle;K03159;546
-2001;Gättingen;Fälle;K03159;528
-2002;Gättingen;Fälle;K03159;516
-2003;Gättingen;Fälle;K03159;584
-2004;Gättingen;Fälle;K03159;351
-2005;Gättingen;Fälle;K03159;480
-2006;Gättingen;Fälle;K03159;286
-2007;Gättingen;Fälle;K03159;295
-2008;Gättingen;Fälle;K03159;277
-2009;Gättingen;Fälle;K03159;126
-2010;Gättingen;Fälle;K03159;225
-2011;Gättingen;Fälle;K03159;267
-2012;Gättingen;Fälle;K03159;368
-2013;Gättingen;Fälle;K03159;280
-2014;Gättingen;Fälle;K03159;301
-2015;Gättingen;Fälle;K03159;356
-2016;Gättingen;Fälle;K03159;344
-2017;Gättingen;Fälle;K03159;301
-2018;Gättingen;Fälle;K03159;374
-2019;Gättingen;Fälle;K03159;380
+1991;Wolfenbttel;Fälle;K03158;304
+1992;Wolfenbttel;Fälle;K03158;360
+1993;Wolfenbttel;Fälle;K03158;635
+1994;Wolfenbttel;Fälle;K03158;467
+1995;Wolfenbttel;Fälle;K03158;454
+1996;Wolfenbttel;Fälle;K03158;656
+1997;Wolfenbttel;Fälle;K03158;483
+1998;Wolfenbttel;Fälle;K03158;650
+1999;Wolfenbttel;Fälle;K03158;616
+2000;Wolfenbttel;Fälle;K03158;513
+2001;Wolfenbttel;Fälle;K03158;369
+2002;Wolfenbttel;Fälle;K03158;387
+2003;Wolfenbttel;Fälle;K03158;297
+2004;Wolfenbttel;Fälle;K03158;202
+2005;Wolfenbttel;Fälle;K03158;284
+2006;Wolfenbttel;Fälle;K03158;157
+2007;Wolfenbttel;Fälle;K03158;148
+2008;Wolfenbttel;Fälle;K03158;161
+2009;Wolfenbttel;Fälle;K03158;154
+2010;Wolfenbttel;Fälle;K03158;164
+2011;Wolfenbttel;Fälle;K03158;163
+2012;Wolfenbttel;Fälle;K03158;178
+2013;Wolfenbttel;Fälle;K03158;163
+2014;Wolfenbttel;Fälle;K03158;262
+2015;Wolfenbttel;Fälle;K03158;223
+2016;Wolfenbttel;Fälle;K03158;232
+2017;Wolfenbttel;Fälle;K03158;177
+2018;Wolfenbttel;Fälle;K03158;149
+2019;Wolfenbttel;Fälle;K03158;349
+1991;G”ttingen;Fälle;K03159;510
+1992;G”ttingen;Fälle;K03159;736
+1993;G”ttingen;Fälle;K03159;829
+1994;G”ttingen;Fälle;K03159;712
+1995;G”ttingen;Fälle;K03159;659
+1996;G”ttingen;Fälle;K03159;840
+1997;G”ttingen;Fälle;K03159;677
+1998;G”ttingen;Fälle;K03159;755
+1999;G”ttingen;Fälle;K03159;715
+2000;G”ttingen;Fälle;K03159;546
+2001;G”ttingen;Fälle;K03159;528
+2002;G”ttingen;Fälle;K03159;516
+2003;G”ttingen;Fälle;K03159;584
+2004;G”ttingen;Fälle;K03159;351
+2005;G”ttingen;Fälle;K03159;480
+2006;G”ttingen;Fälle;K03159;286
+2007;G”ttingen;Fälle;K03159;295
+2008;G”ttingen;Fälle;K03159;277
+2009;G”ttingen;Fälle;K03159;126
+2010;G”ttingen;Fälle;K03159;225
+2011;G”ttingen;Fälle;K03159;267
+2012;G”ttingen;Fälle;K03159;368
+2013;G”ttingen;Fälle;K03159;280
+2014;G”ttingen;Fälle;K03159;301
+2015;G”ttingen;Fälle;K03159;356
+2016;G”ttingen;Fälle;K03159;344
+2017;G”ttingen;Fälle;K03159;301
+2018;G”ttingen;Fälle;K03159;374
+2019;G”ttingen;Fälle;K03159;380
 1991;Hannover;Fälle;;4726
 1992;Hannover;Fälle;;5370
 1993;Hannover;Fälle;;5337
@@ -376,66 +376,66 @@ Year;Gebietseinheit;Kategorien;GeoCode;Value
 2017;Hannover;Fälle;;2828
 2018;Hannover;Fälle;;2359
 2019;Hannover;Fälle;;2607
-0;Hannover,Region;Fälle;K03241;0
-1991;Hannover,Region;Fälle;K03241;2064
-1992;Hannover,Region;Fälle;K03241;1932
-1993;Hannover,Region;Fälle;K03241;1922
-1994;Hannover,Region;Fälle;K03241;1954
-1995;Hannover,Region;Fälle;K03241;1630
-1996;Hannover,Region;Fälle;K03241;1644
-1997;Hannover,Region;Fälle;K03241;1779
-1998;Hannover,Region;Fälle;K03241;2304
-1999;Hannover,Region;Fälle;K03241;2012
-2000;Hannover,Region;Fälle;K03241;1641
-2001;Hannover,Region;Fälle;K03241;1784
-2002;Hannover,Region;Fälle;K03241;1887
-2003;Hannover,Region;Fälle;K03241;1844
-2004;Hannover,Region;Fälle;K03241;1431
-2005;Hannover,Region;Fälle;K03241;1397
-2006;Hannover,Region;Fälle;K03241;1153
-2007;Hannover,Region;Fälle;K03241;1044
-2008;Hannover,Region;Fälle;K03241;882
-2009;Hannover,Region;Fälle;K03241;787
-2010;Hannover,Region;Fälle;K03241;1122
-2011;Hannover,Region;Fälle;K03241;1062
-2012;Hannover,Region;Fälle;K03241;1233
-2013;Hannover,Region;Fälle;K03241;1264
-2014;Hannover,Region;Fälle;K03241;1122
-2015;Hannover,Region;Fälle;K03241;1046
-2016;Hannover,Region;Fälle;K03241;1030
-2017;Hannover,Region;Fälle;K03241;1040
-2018;Hannover,Region;Fälle;K03241;851
-2019;Hannover,Region;Fälle;K03241;714
-0;Hannover,Landeshauptstadt;Fälle;K03241001;0
-1991;Hannover,Landeshauptstadt;Fälle;K03241001;331
-1992;Hannover,Landeshauptstadt;Fälle;K03241001;238
-1993;Hannover,Landeshauptstadt;Fälle;K03241001;235
-1994;Hannover,Landeshauptstadt;Fälle;K03241001;243
-1995;Hannover,Landeshauptstadt;Fälle;K03241001;195
-1996;Hannover,Landeshauptstadt;Fälle;K03241001;181
-1997;Hannover,Landeshauptstadt;Fälle;K03241001;286
-1998;Hannover,Landeshauptstadt;Fälle;K03241001;311
-1999;Hannover,Landeshauptstadt;Fälle;K03241001;365
-2000;Hannover,Landeshauptstadt;Fälle;K03241001;248
-2001;Hannover,Landeshauptstadt;Fälle;K03241001;215
-2002;Hannover,Landeshauptstadt;Fälle;K03241001;270
-2003;Hannover,Landeshauptstadt;Fälle;K03241001;334
-2004;Hannover,Landeshauptstadt;Fälle;K03241001;240
-2005;Hannover,Landeshauptstadt;Fälle;K03241001;181
-2006;Hannover,Landeshauptstadt;Fälle;K03241001;221
-2007;Hannover,Landeshauptstadt;Fälle;K03241001;182
-2008;Hannover,Landeshauptstadt;Fälle;K03241001;179
-2009;Hannover,Landeshauptstadt;Fälle;K03241001;144
-2010;Hannover,Landeshauptstadt;Fälle;K03241001;158
-2011;Hannover,Landeshauptstadt;Fälle;K03241001;183
-2012;Hannover,Landeshauptstadt;Fälle;K03241001;235
-2013;Hannover,Landeshauptstadt;Fälle;K03241001;259
-2014;Hannover,Landeshauptstadt;Fälle;K03241001;191
-2015;Hannover,Landeshauptstadt;Fälle;K03241001;155
-2016;Hannover,Landeshauptstadt;Fälle;K03241001;138
-2017;Hannover,Landeshauptstadt;Fälle;K03241001;129
-2018;Hannover,Landeshauptstadt;Fälle;K03241001;108
-2019;Hannover,Landeshauptstadt;Fälle;K03241001;108
+0;Hannover-Region;Fälle;K03241;0
+1991;Hannover-Region;Fälle;K03241;2064
+1992;Hannover-Region;Fälle;K03241;1932
+1993;Hannover-Region;Fälle;K03241;1922
+1994;Hannover-Region;Fälle;K03241;1954
+1995;Hannover-Region;Fälle;K03241;1630
+1996;Hannover-Region;Fälle;K03241;1644
+1997;Hannover-Region;Fälle;K03241;1779
+1998;Hannover-Region;Fälle;K03241;2304
+1999;Hannover-Region;Fälle;K03241;2012
+2000;Hannover-Region;Fälle;K03241;1641
+2001;Hannover-Region;Fälle;K03241;1784
+2002;Hannover-Region;Fälle;K03241;1887
+2003;Hannover-Region;Fälle;K03241;1844
+2004;Hannover-Region;Fälle;K03241;1431
+2005;Hannover-Region;Fälle;K03241;1397
+2006;Hannover-Region;Fälle;K03241;1153
+2007;Hannover-Region;Fälle;K03241;1044
+2008;Hannover-Region;Fälle;K03241;882
+2009;Hannover-Region;Fälle;K03241;787
+2010;Hannover-Region;Fälle;K03241;1122
+2011;Hannover-Region;Fälle;K03241;1062
+2012;Hannover-Region;Fälle;K03241;1233
+2013;Hannover-Region;Fälle;K03241;1264
+2014;Hannover-Region;Fälle;K03241;1122
+2015;Hannover-Region;Fälle;K03241;1046
+2016;Hannover-Region;Fälle;K03241;1030
+2017;Hannover-Region;Fälle;K03241;1040
+2018;Hannover-Region;Fälle;K03241;851
+2019;Hannover-Region;Fälle;K03241;714
+0;Hannover-Landeshauptstadt;Fälle;K03241001;0
+1991;Hannover-Landeshauptstadt;Fälle;K03241001;331
+1992;Hannover-Landeshauptstadt;Fälle;K03241001;238
+1993;Hannover-Landeshauptstadt;Fälle;K03241001;235
+1994;Hannover-Landeshauptstadt;Fälle;K03241001;243
+1995;Hannover-Landeshauptstadt;Fälle;K03241001;195
+1996;Hannover-Landeshauptstadt;Fälle;K03241001;181
+1997;Hannover-Landeshauptstadt;Fälle;K03241001;286
+1998;Hannover-Landeshauptstadt;Fälle;K03241001;311
+1999;Hannover-Landeshauptstadt;Fälle;K03241001;365
+2000;Hannover-Landeshauptstadt;Fälle;K03241001;248
+2001;Hannover-Landeshauptstadt;Fälle;K03241001;215
+2002;Hannover-Landeshauptstadt;Fälle;K03241001;270
+2003;Hannover-Landeshauptstadt;Fälle;K03241001;334
+2004;Hannover-Landeshauptstadt;Fälle;K03241001;240
+2005;Hannover-Landeshauptstadt;Fälle;K03241001;181
+2006;Hannover-Landeshauptstadt;Fälle;K03241001;221
+2007;Hannover-Landeshauptstadt;Fälle;K03241001;182
+2008;Hannover-Landeshauptstadt;Fälle;K03241001;179
+2009;Hannover-Landeshauptstadt;Fälle;K03241001;144
+2010;Hannover-Landeshauptstadt;Fälle;K03241001;158
+2011;Hannover-Landeshauptstadt;Fälle;K03241001;183
+2012;Hannover-Landeshauptstadt;Fälle;K03241001;235
+2013;Hannover-Landeshauptstadt;Fälle;K03241001;259
+2014;Hannover-Landeshauptstadt;Fälle;K03241001;191
+2015;Hannover-Landeshauptstadt;Fälle;K03241001;155
+2016;Hannover-Landeshauptstadt;Fälle;K03241001;138
+2017;Hannover-Landeshauptstadt;Fälle;K03241001;129
+2018;Hannover-Landeshauptstadt;Fälle;K03241001;108
+2019;Hannover-Landeshauptstadt;Fälle;K03241001;108
 1991;Diepholz;Fälle;K03251;833
 1992;Diepholz;Fälle;K03251;947
 1993;Diepholz;Fälle;K03251;928
@@ -610,35 +610,35 @@ Year;Gebietseinheit;Kategorien;GeoCode;Value
 2017;Schaumburg;Fälle;K03257;312
 2018;Schaumburg;Fälle;K03257;305
 2019;Schaumburg;Fälle;K03257;286
-1991;Läneburg;Fälle;;5575
-1992;Läneburg;Fälle;;6023
-1993;Läneburg;Fälle;;7987
-1994;Läneburg;Fälle;;7853
-1995;Läneburg;Fälle;;6558
-1996;Läneburg;Fälle;;6980
-1997;Läneburg;Fälle;;6680
-1998;Läneburg;Fälle;;8936
-1999;Läneburg;Fälle;;8355
-2000;Läneburg;Fälle;;5643
-2001;Läneburg;Fälle;;5309
-2002;Läneburg;Fälle;;4951
-2003;Läneburg;Fälle;;4923
-2004;Läneburg;Fälle;;3817
-2005;Läneburg;Fälle;;3910
-2006;Läneburg;Fälle;;3201
-2007;Läneburg;Fälle;;2593
-2008;Läneburg;Fälle;;2600
-2009;Läneburg;Fälle;;2090
-2010;Läneburg;Fälle;;3129
-2011;Läneburg;Fälle;;2958
-2012;Läneburg;Fälle;;3874
-2013;Läneburg;Fälle;;3713
-2014;Läneburg;Fälle;;3343
-2015;Läneburg;Fälle;;4003
-2016;Läneburg;Fälle;;3873
-2017;Läneburg;Fälle;;4185
-2018;Läneburg;Fälle;;3954
-2019;Läneburg;Fälle;;3897
+1991;Lneburg;Fälle;;5575
+1992;Lneburg;Fälle;;6023
+1993;Lneburg;Fälle;;7987
+1994;Lneburg;Fälle;;7853
+1995;Lneburg;Fälle;;6558
+1996;Lneburg;Fälle;;6980
+1997;Lneburg;Fälle;;6680
+1998;Lneburg;Fälle;;8936
+1999;Lneburg;Fälle;;8355
+2000;Lneburg;Fälle;;5643
+2001;Lneburg;Fälle;;5309
+2002;Lneburg;Fälle;;4951
+2003;Lneburg;Fälle;;4923
+2004;Lneburg;Fälle;;3817
+2005;Lneburg;Fälle;;3910
+2006;Lneburg;Fälle;;3201
+2007;Lneburg;Fälle;;2593
+2008;Lneburg;Fälle;;2600
+2009;Lneburg;Fälle;;2090
+2010;Lneburg;Fälle;;3129
+2011;Lneburg;Fälle;;2958
+2012;Lneburg;Fälle;;3874
+2013;Lneburg;Fälle;;3713
+2014;Lneburg;Fälle;;3343
+2015;Lneburg;Fälle;;4003
+2016;Lneburg;Fälle;;3873
+2017;Lneburg;Fälle;;4185
+2018;Lneburg;Fälle;;3954
+2019;Lneburg;Fälle;;3897
 1991;Celle;Fälle;K03351;454
 1992;Celle;Fälle;K03351;568
 1993;Celle;Fälle;K03351;606
@@ -726,64 +726,64 @@ Year;Gebietseinheit;Kategorien;GeoCode;Value
 2017;Harburg;Fälle;K03353;533
 2018;Harburg;Fälle;K03353;477
 2019;Harburg;Fälle;K03353;562
-1991;Lächow-Dannenberg;Fälle;K03354;202
-1992;Lächow-Dannenberg;Fälle;K03354;221
-1993;Lächow-Dannenberg;Fälle;K03354;300
-1994;Lächow-Dannenberg;Fälle;K03354;260
-1995;Lächow-Dannenberg;Fälle;K03354;245
-1996;Lächow-Dannenberg;Fälle;K03354;215
-1997;Lächow-Dannenberg;Fälle;K03354;212
-1998;Lächow-Dannenberg;Fälle;K03354;278
-1999;Lächow-Dannenberg;Fälle;K03354;283
-2000;Lächow-Dannenberg;Fälle;K03354;192
-2001;Lächow-Dannenberg;Fälle;K03354;156
-2002;Lächow-Dannenberg;Fälle;K03354;126
-2003;Lächow-Dannenberg;Fälle;K03354;98
-2004;Lächow-Dannenberg;Fälle;K03354;79
-2005;Lächow-Dannenberg;Fälle;K03354;58
-2006;Lächow-Dannenberg;Fälle;K03354;58
-2007;Lächow-Dannenberg;Fälle;K03354;57
-2008;Lächow-Dannenberg;Fälle;K03354;51
-2009;Lächow-Dannenberg;Fälle;K03354;15
-2010;Lächow-Dannenberg;Fälle;K03354;50
-2011;Lächow-Dannenberg;Fälle;K03354;51
-2012;Lächow-Dannenberg;Fälle;K03354;44
-2013;Lächow-Dannenberg;Fälle;K03354;83
-2014;Lächow-Dannenberg;Fälle;K03354;71
-2015;Lächow-Dannenberg;Fälle;K03354;68
-2016;Lächow-Dannenberg;Fälle;K03354;79
-2017;Lächow-Dannenberg;Fälle;K03354;85
-2018;Lächow-Dannenberg;Fälle;K03354;112
-2019;Lächow-Dannenberg;Fälle;K03354;143
-1991;Läneburg, Stadt;Fälle;K03355;509
-1992;Läneburg, Stadt;Fälle;K03355;169
-1993;Läneburg, Stadt;Fälle;K03355;677
-1994;Läneburg, Stadt;Fälle;K03355;793
-1995;Läneburg, Stadt;Fälle;K03355;525
-1996;Läneburg, Stadt;Fälle;K03355;717
-1997;Läneburg, Stadt;Fälle;K03355;633
-1998;Läneburg, Stadt;Fälle;K03355;796
-1999;Läneburg, Stadt;Fälle;K03355;669
-2000;Läneburg, Stadt;Fälle;K03355;455
-2001;Läneburg, Stadt;Fälle;K03355;496
-2002;Läneburg, Stadt;Fälle;K03355;479
-2003;Läneburg, Stadt;Fälle;K03355;432
-2004;Läneburg, Stadt;Fälle;K03355;399
-2005;Läneburg, Stadt;Fälle;K03355;416
-2006;Läneburg, Stadt;Fälle;K03355;300
-2007;Läneburg, Stadt;Fälle;K03355;244
-2008;Läneburg, Stadt;Fälle;K03355;296
-2009;Läneburg, Stadt;Fälle;K03355;222
-2010;Läneburg, Stadt;Fälle;K03355;432
-2011;Läneburg, Stadt;Fälle;K03355;331
-2012;Läneburg, Stadt;Fälle;K03355;503
-2013;Läneburg, Stadt;Fälle;K03355;318
-2014;Läneburg, Stadt;Fälle;K03355;332
-2015;Läneburg, Stadt;Fälle;K03355;329
-2016;Läneburg, Stadt;Fälle;K03355;388
-2017;Läneburg, Stadt;Fälle;K03355;297
-2018;Läneburg, Stadt;Fälle;K03355;301
-2019;Läneburg, Stadt;Fälle;K03355;248
+1991;Lchow-Dannenberg;Fälle;K03354;202
+1992;Lchow-Dannenberg;Fälle;K03354;221
+1993;Lchow-Dannenberg;Fälle;K03354;300
+1994;Lchow-Dannenberg;Fälle;K03354;260
+1995;Lchow-Dannenberg;Fälle;K03354;245
+1996;Lchow-Dannenberg;Fälle;K03354;215
+1997;Lchow-Dannenberg;Fälle;K03354;212
+1998;Lchow-Dannenberg;Fälle;K03354;278
+1999;Lchow-Dannenberg;Fälle;K03354;283
+2000;Lchow-Dannenberg;Fälle;K03354;192
+2001;Lchow-Dannenberg;Fälle;K03354;156
+2002;Lchow-Dannenberg;Fälle;K03354;126
+2003;Lchow-Dannenberg;Fälle;K03354;98
+2004;Lchow-Dannenberg;Fälle;K03354;79
+2005;Lchow-Dannenberg;Fälle;K03354;58
+2006;Lchow-Dannenberg;Fälle;K03354;58
+2007;Lchow-Dannenberg;Fälle;K03354;57
+2008;Lchow-Dannenberg;Fälle;K03354;51
+2009;Lchow-Dannenberg;Fälle;K03354;15
+2010;Lchow-Dannenberg;Fälle;K03354;50
+2011;Lchow-Dannenberg;Fälle;K03354;51
+2012;Lchow-Dannenberg;Fälle;K03354;44
+2013;Lchow-Dannenberg;Fälle;K03354;83
+2014;Lchow-Dannenberg;Fälle;K03354;71
+2015;Lchow-Dannenberg;Fälle;K03354;68
+2016;Lchow-Dannenberg;Fälle;K03354;79
+2017;Lchow-Dannenberg;Fälle;K03354;85
+2018;Lchow-Dannenberg;Fälle;K03354;112
+2019;Lchow-Dannenberg;Fälle;K03354;143
+1991;Lneburg- Stadt;Fälle;K03355;509
+1992;Lneburg- Stadt;Fälle;K03355;169
+1993;Lneburg- Stadt;Fälle;K03355;677
+1994;Lneburg- Stadt;Fälle;K03355;793
+1995;Lneburg- Stadt;Fälle;K03355;525
+1996;Lneburg- Stadt;Fälle;K03355;717
+1997;Lneburg- Stadt;Fälle;K03355;633
+1998;Lneburg- Stadt;Fälle;K03355;796
+1999;Lneburg- Stadt;Fälle;K03355;669
+2000;Lneburg- Stadt;Fälle;K03355;455
+2001;Lneburg- Stadt;Fälle;K03355;496
+2002;Lneburg- Stadt;Fälle;K03355;479
+2003;Lneburg- Stadt;Fälle;K03355;432
+2004;Lneburg- Stadt;Fälle;K03355;399
+2005;Lneburg- Stadt;Fälle;K03355;416
+2006;Lneburg- Stadt;Fälle;K03355;300
+2007;Lneburg- Stadt;Fälle;K03355;244
+2008;Lneburg- Stadt;Fälle;K03355;296
+2009;Lneburg- Stadt;Fälle;K03355;222
+2010;Lneburg- Stadt;Fälle;K03355;432
+2011;Lneburg- Stadt;Fälle;K03355;331
+2012;Lneburg- Stadt;Fälle;K03355;503
+2013;Lneburg- Stadt;Fälle;K03355;318
+2014;Lneburg- Stadt;Fälle;K03355;332
+2015;Lneburg- Stadt;Fälle;K03355;329
+2016;Lneburg- Stadt;Fälle;K03355;388
+2017;Lneburg- Stadt;Fälle;K03355;297
+2018;Lneburg- Stadt;Fälle;K03355;301
+2019;Lneburg- Stadt;Fälle;K03355;248
 1991;Osterholz;Fälle;K03356;350
 1992;Osterholz;Fälle;K03356;423
 1993;Osterholz;Fälle;K03356;468
@@ -813,35 +813,35 @@ Year;Gebietseinheit;Kategorien;GeoCode;Value
 2017;Osterholz;Fälle;K03356;324
 2018;Osterholz;Fälle;K03356;237
 2019;Osterholz;Fälle;K03356;189
-1991;Rotenburg (Wämme);Fälle;K03357;458
-1992;Rotenburg (Wämme);Fälle;K03357;627
-1993;Rotenburg (Wämme);Fälle;K03357;1044
-1994;Rotenburg (Wämme);Fälle;K03357;912
-1995;Rotenburg (Wämme);Fälle;K03357;924
-1996;Rotenburg (Wämme);Fälle;K03357;823
-1997;Rotenburg (Wämme);Fälle;K03357;872
-1998;Rotenburg (Wämme);Fälle;K03357;1218
-1999;Rotenburg (Wämme);Fälle;K03357;1020
-2000;Rotenburg (Wämme);Fälle;K03357;697
-2001;Rotenburg (Wämme);Fälle;K03357;540
-2002;Rotenburg (Wämme);Fälle;K03357;623
-2003;Rotenburg (Wämme);Fälle;K03357;596
-2004;Rotenburg (Wämme);Fälle;K03357;299
-2005;Rotenburg (Wämme);Fälle;K03357;359
-2006;Rotenburg (Wämme);Fälle;K03357;208
-2007;Rotenburg (Wämme);Fälle;K03357;201
-2008;Rotenburg (Wämme);Fälle;K03357;174
-2009;Rotenburg (Wämme);Fälle;K03357;137
-2010;Rotenburg (Wämme);Fälle;K03357;257
-2011;Rotenburg (Wämme);Fälle;K03357;263
-2012;Rotenburg (Wämme);Fälle;K03357;311
-2013;Rotenburg (Wämme);Fälle;K03357;349
-2014;Rotenburg (Wämme);Fälle;K03357;363
-2015;Rotenburg (Wämme);Fälle;K03357;498
-2016;Rotenburg (Wämme);Fälle;K03357;475
-2017;Rotenburg (Wämme);Fälle;K03357;497
-2018;Rotenburg (Wämme);Fälle;K03357;469
-2019;Rotenburg (Wämme);Fälle;K03357;446
+1991;Rotenburg (Wmme);Fälle;K03357;458
+1992;Rotenburg (Wmme);Fälle;K03357;627
+1993;Rotenburg (Wmme);Fälle;K03357;1044
+1994;Rotenburg (Wmme);Fälle;K03357;912
+1995;Rotenburg (Wmme);Fälle;K03357;924
+1996;Rotenburg (Wmme);Fälle;K03357;823
+1997;Rotenburg (Wmme);Fälle;K03357;872
+1998;Rotenburg (Wmme);Fälle;K03357;1218
+1999;Rotenburg (Wmme);Fälle;K03357;1020
+2000;Rotenburg (Wmme);Fälle;K03357;697
+2001;Rotenburg (Wmme);Fälle;K03357;540
+2002;Rotenburg (Wmme);Fälle;K03357;623
+2003;Rotenburg (Wmme);Fälle;K03357;596
+2004;Rotenburg (Wmme);Fälle;K03357;299
+2005;Rotenburg (Wmme);Fälle;K03357;359
+2006;Rotenburg (Wmme);Fälle;K03357;208
+2007;Rotenburg (Wmme);Fälle;K03357;201
+2008;Rotenburg (Wmme);Fälle;K03357;174
+2009;Rotenburg (Wmme);Fälle;K03357;137
+2010;Rotenburg (Wmme);Fälle;K03357;257
+2011;Rotenburg (Wmme);Fälle;K03357;263
+2012;Rotenburg (Wmme);Fälle;K03357;311
+2013;Rotenburg (Wmme);Fälle;K03357;349
+2014;Rotenburg (Wmme);Fälle;K03357;363
+2015;Rotenburg (Wmme);Fälle;K03357;498
+2016;Rotenburg (Wmme);Fälle;K03357;475
+2017;Rotenburg (Wmme);Fälle;K03357;497
+2018;Rotenburg (Wmme);Fälle;K03357;469
+2019;Rotenburg (Wmme);Fälle;K03357;446
 1991;Heidekreis;Fälle;K03358;379
 1992;Heidekreis;Fälle;K03358;472
 1993;Heidekreis;Fälle;K03358;706
@@ -987,151 +987,151 @@ Year;Gebietseinheit;Kategorien;GeoCode;Value
 2017;Weser-Ems;Fälle;;6031
 2018;Weser-Ems;Fälle;;5770
 2019;Weser-Ems;Fälle;;5732
-1991;Delmenhorst,Stadt;Fälle;K03401;172
-1992;Delmenhorst,Stadt;Fälle;K03401;197
-1993;Delmenhorst,Stadt;Fälle;K03401;160
-1994;Delmenhorst,Stadt;Fälle;K03401;177
-1995;Delmenhorst,Stadt;Fälle;K03401;86
-1996;Delmenhorst,Stadt;Fälle;K03401;105
-1997;Delmenhorst,Stadt;Fälle;K03401;97
-1998;Delmenhorst,Stadt;Fälle;K03401;101
-1999;Delmenhorst,Stadt;Fälle;K03401;129
-2000;Delmenhorst,Stadt;Fälle;K03401;128
-2001;Delmenhorst,Stadt;Fälle;K03401;97
-2002;Delmenhorst,Stadt;Fälle;K03401;145
-2003;Delmenhorst,Stadt;Fälle;K03401;161
-2004;Delmenhorst,Stadt;Fälle;K03401;102
-2005;Delmenhorst,Stadt;Fälle;K03401;113
-2006;Delmenhorst,Stadt;Fälle;K03401;102
-2007;Delmenhorst,Stadt;Fälle;K03401;64
-2008;Delmenhorst,Stadt;Fälle;K03401;64
-2009;Delmenhorst,Stadt;Fälle;K03401;49
-2010;Delmenhorst,Stadt;Fälle;K03401;61
-2011;Delmenhorst,Stadt;Fälle;K03401;79
-2012;Delmenhorst,Stadt;Fälle;K03401;94
-2013;Delmenhorst,Stadt;Fälle;K03401;65
-2014;Delmenhorst,Stadt;Fälle;K03401;77
-2015;Delmenhorst,Stadt;Fälle;K03401;84
-2016;Delmenhorst,Stadt;Fälle;K03401;79
-2017;Delmenhorst,Stadt;Fälle;K03401;52
-2018;Delmenhorst,Stadt;Fälle;K03401;78
-2019;Delmenhorst,Stadt;Fälle;K03401;59
-1991;Emden,Stadt;Fälle;K03402;100
-1992;Emden,Stadt;Fälle;K03402;62
-1993;Emden,Stadt;Fälle;K03402;109
-1994;Emden,Stadt;Fälle;K03402;172
-1995;Emden,Stadt;Fälle;K03402;157
-1996;Emden,Stadt;Fälle;K03402;197
-1997;Emden,Stadt;Fälle;K03402;136
-1998;Emden,Stadt;Fälle;K03402;143
-1999;Emden,Stadt;Fälle;K03402;263
-2000;Emden,Stadt;Fälle;K03402;181
-2001;Emden,Stadt;Fälle;K03402;132
-2002;Emden,Stadt;Fälle;K03402;115
-2003;Emden,Stadt;Fälle;K03402;88
-2004;Emden,Stadt;Fälle;K03402;67
-2005;Emden,Stadt;Fälle;K03402;95
-2006;Emden,Stadt;Fälle;K03402;46
-2007;Emden,Stadt;Fälle;K03402;49
-2008;Emden,Stadt;Fälle;K03402;52
-2009;Emden,Stadt;Fälle;K03402;44
-2010;Emden,Stadt;Fälle;K03402;61
-2011;Emden,Stadt;Fälle;K03402;59
-2012;Emden,Stadt;Fälle;K03402;97
-2013;Emden,Stadt;Fälle;K03402;69
-2014;Emden,Stadt;Fälle;K03402;34
-2015;Emden,Stadt;Fälle;K03402;74
-2016;Emden,Stadt;Fälle;K03402;108
-2017;Emden,Stadt;Fälle;K03402;53
-2018;Emden,Stadt;Fälle;K03402;70
-2019;Emden,Stadt;Fälle;K03402;57
-1991;Oldenburg(Oldb),Stadt;Fälle;K03403;383
-1992;Oldenburg(Oldb),Stadt;Fälle;K03403;471
-1993;Oldenburg(Oldb),Stadt;Fälle;K03403;464
-1994;Oldenburg(Oldb),Stadt;Fälle;K03403;377
-1995;Oldenburg(Oldb),Stadt;Fälle;K03403;445
-1996;Oldenburg(Oldb),Stadt;Fälle;K03403;504
-1997;Oldenburg(Oldb),Stadt;Fälle;K03403;401
-1998;Oldenburg(Oldb),Stadt;Fälle;K03403;385
-1999;Oldenburg(Oldb),Stadt;Fälle;K03403;361
-2000;Oldenburg(Oldb),Stadt;Fälle;K03403;284
-2001;Oldenburg(Oldb),Stadt;Fälle;K03403;259
-2002;Oldenburg(Oldb),Stadt;Fälle;K03403;285
-2003;Oldenburg(Oldb),Stadt;Fälle;K03403;259
-2004;Oldenburg(Oldb),Stadt;Fälle;K03403;231
-2005;Oldenburg(Oldb),Stadt;Fälle;K03403;296
-2006;Oldenburg(Oldb),Stadt;Fälle;K03403;220
-2007;Oldenburg(Oldb),Stadt;Fälle;K03403;192
-2008;Oldenburg(Oldb),Stadt;Fälle;K03403;174
-2009;Oldenburg(Oldb),Stadt;Fälle;K03403;214
-2010;Oldenburg(Oldb),Stadt;Fälle;K03403;337
-2011;Oldenburg(Oldb),Stadt;Fälle;K03403;208
-2012;Oldenburg(Oldb),Stadt;Fälle;K03403;375
-2013;Oldenburg(Oldb),Stadt;Fälle;K03403;276
-2014;Oldenburg(Oldb),Stadt;Fälle;K03403;243
-2015;Oldenburg(Oldb),Stadt;Fälle;K03403;241
-2016;Oldenburg(Oldb),Stadt;Fälle;K03403;239
-2017;Oldenburg(Oldb),Stadt;Fälle;K03403;262
-2018;Oldenburg(Oldb),Stadt;Fälle;K03403;242
-2019;Oldenburg(Oldb),Stadt;Fälle;K03403;280
-1991;Osnabräck,Stadt;Fälle;K03404;237
-1992;Osnabräck,Stadt;Fälle;K03404;233
-1993;Osnabräck,Stadt;Fälle;K03404;169
-1994;Osnabräck,Stadt;Fälle;K03404;186
-1995;Osnabräck,Stadt;Fälle;K03404;129
-1996;Osnabräck,Stadt;Fälle;K03404;117
-1997;Osnabräck,Stadt;Fälle;K03404;104
-1998;Osnabräck,Stadt;Fälle;K03404;100
-1999;Osnabräck,Stadt;Fälle;K03404;136
-2000;Osnabräck,Stadt;Fälle;K03404;129
-2001;Osnabräck,Stadt;Fälle;K03404;111
-2002;Osnabräck,Stadt;Fälle;K03404;95
-2003;Osnabräck,Stadt;Fälle;K03404;82
-2004;Osnabräck,Stadt;Fälle;K03404;125
-2005;Osnabräck,Stadt;Fälle;K03404;103
-2006;Osnabräck,Stadt;Fälle;K03404;102
-2007;Osnabräck,Stadt;Fälle;K03404;88
-2008;Osnabräck,Stadt;Fälle;K03404;92
-2009;Osnabräck,Stadt;Fälle;K03404;43
-2010;Osnabräck,Stadt;Fälle;K03404;98
-2011;Osnabräck,Stadt;Fälle;K03404;170
-2012;Osnabräck,Stadt;Fälle;K03404;205
-2013;Osnabräck,Stadt;Fälle;K03404;247
-2014;Osnabräck,Stadt;Fälle;K03404;106
-2015;Osnabräck,Stadt;Fälle;K03404;107
-2016;Osnabräck,Stadt;Fälle;K03404;67
-2017;Osnabräck,Stadt;Fälle;K03404;67
-2018;Osnabräck,Stadt;Fälle;K03404;98
-2019;Osnabräck,Stadt;Fälle;K03404;72
-1991;Wilhelmshaven,Stadt;Fälle;K03405;99
-1992;Wilhelmshaven,Stadt;Fälle;K03405;97
-1993;Wilhelmshaven,Stadt;Fälle;K03405;130
-1994;Wilhelmshaven,Stadt;Fälle;K03405;173
-1995;Wilhelmshaven,Stadt;Fälle;K03405;125
-1996;Wilhelmshaven,Stadt;Fälle;K03405;122
-1997;Wilhelmshaven,Stadt;Fälle;K03405;84
-1998;Wilhelmshaven,Stadt;Fälle;K03405;236
-1999;Wilhelmshaven,Stadt;Fälle;K03405;169
-2000;Wilhelmshaven,Stadt;Fälle;K03405;126
-2001;Wilhelmshaven,Stadt;Fälle;K03405;114
-2002;Wilhelmshaven,Stadt;Fälle;K03405;159
-2003;Wilhelmshaven,Stadt;Fälle;K03405;118
-2004;Wilhelmshaven,Stadt;Fälle;K03405;61
-2005;Wilhelmshaven,Stadt;Fälle;K03405;88
-2006;Wilhelmshaven,Stadt;Fälle;K03405;53
-2007;Wilhelmshaven,Stadt;Fälle;K03405;58
-2008;Wilhelmshaven,Stadt;Fälle;K03405;66
-2009;Wilhelmshaven,Stadt;Fälle;K03405;52
-2010;Wilhelmshaven,Stadt;Fälle;K03405;47
-2011;Wilhelmshaven,Stadt;Fälle;K03405;36
-2012;Wilhelmshaven,Stadt;Fälle;K03405;47
-2013;Wilhelmshaven,Stadt;Fälle;K03405;63
-2014;Wilhelmshaven,Stadt;Fälle;K03405;36
-2015;Wilhelmshaven,Stadt;Fälle;K03405;74
-2016;Wilhelmshaven,Stadt;Fälle;K03405;41
-2017;Wilhelmshaven,Stadt;Fälle;K03405;60
-2018;Wilhelmshaven,Stadt;Fälle;K03405;42
-2019;Wilhelmshaven,Stadt;Fälle;K03405;45
+1991;Delmenhorst-Stadt;Fälle;K03401;172
+1992;Delmenhorst-Stadt;Fälle;K03401;197
+1993;Delmenhorst-Stadt;Fälle;K03401;160
+1994;Delmenhorst-Stadt;Fälle;K03401;177
+1995;Delmenhorst-Stadt;Fälle;K03401;86
+1996;Delmenhorst-Stadt;Fälle;K03401;105
+1997;Delmenhorst-Stadt;Fälle;K03401;97
+1998;Delmenhorst-Stadt;Fälle;K03401;101
+1999;Delmenhorst-Stadt;Fälle;K03401;129
+2000;Delmenhorst-Stadt;Fälle;K03401;128
+2001;Delmenhorst-Stadt;Fälle;K03401;97
+2002;Delmenhorst-Stadt;Fälle;K03401;145
+2003;Delmenhorst-Stadt;Fälle;K03401;161
+2004;Delmenhorst-Stadt;Fälle;K03401;102
+2005;Delmenhorst-Stadt;Fälle;K03401;113
+2006;Delmenhorst-Stadt;Fälle;K03401;102
+2007;Delmenhorst-Stadt;Fälle;K03401;64
+2008;Delmenhorst-Stadt;Fälle;K03401;64
+2009;Delmenhorst-Stadt;Fälle;K03401;49
+2010;Delmenhorst-Stadt;Fälle;K03401;61
+2011;Delmenhorst-Stadt;Fälle;K03401;79
+2012;Delmenhorst-Stadt;Fälle;K03401;94
+2013;Delmenhorst-Stadt;Fälle;K03401;65
+2014;Delmenhorst-Stadt;Fälle;K03401;77
+2015;Delmenhorst-Stadt;Fälle;K03401;84
+2016;Delmenhorst-Stadt;Fälle;K03401;79
+2017;Delmenhorst-Stadt;Fälle;K03401;52
+2018;Delmenhorst-Stadt;Fälle;K03401;78
+2019;Delmenhorst-Stadt;Fälle;K03401;59
+1991;Emden-Stadt;Fälle;K03402;100
+1992;Emden-Stadt;Fälle;K03402;62
+1993;Emden-Stadt;Fälle;K03402;109
+1994;Emden-Stadt;Fälle;K03402;172
+1995;Emden-Stadt;Fälle;K03402;157
+1996;Emden-Stadt;Fälle;K03402;197
+1997;Emden-Stadt;Fälle;K03402;136
+1998;Emden-Stadt;Fälle;K03402;143
+1999;Emden-Stadt;Fälle;K03402;263
+2000;Emden-Stadt;Fälle;K03402;181
+2001;Emden-Stadt;Fälle;K03402;132
+2002;Emden-Stadt;Fälle;K03402;115
+2003;Emden-Stadt;Fälle;K03402;88
+2004;Emden-Stadt;Fälle;K03402;67
+2005;Emden-Stadt;Fälle;K03402;95
+2006;Emden-Stadt;Fälle;K03402;46
+2007;Emden-Stadt;Fälle;K03402;49
+2008;Emden-Stadt;Fälle;K03402;52
+2009;Emden-Stadt;Fälle;K03402;44
+2010;Emden-Stadt;Fälle;K03402;61
+2011;Emden-Stadt;Fälle;K03402;59
+2012;Emden-Stadt;Fälle;K03402;97
+2013;Emden-Stadt;Fälle;K03402;69
+2014;Emden-Stadt;Fälle;K03402;34
+2015;Emden-Stadt;Fälle;K03402;74
+2016;Emden-Stadt;Fälle;K03402;108
+2017;Emden-Stadt;Fälle;K03402;53
+2018;Emden-Stadt;Fälle;K03402;70
+2019;Emden-Stadt;Fälle;K03402;57
+1991;Oldenburg(Oldb)-Stadt;Fälle;K03403;383
+1992;Oldenburg(Oldb)-Stadt;Fälle;K03403;471
+1993;Oldenburg(Oldb)-Stadt;Fälle;K03403;464
+1994;Oldenburg(Oldb)-Stadt;Fälle;K03403;377
+1995;Oldenburg(Oldb)-Stadt;Fälle;K03403;445
+1996;Oldenburg(Oldb)-Stadt;Fälle;K03403;504
+1997;Oldenburg(Oldb)-Stadt;Fälle;K03403;401
+1998;Oldenburg(Oldb)-Stadt;Fälle;K03403;385
+1999;Oldenburg(Oldb)-Stadt;Fälle;K03403;361
+2000;Oldenburg(Oldb)-Stadt;Fälle;K03403;284
+2001;Oldenburg(Oldb)-Stadt;Fälle;K03403;259
+2002;Oldenburg(Oldb)-Stadt;Fälle;K03403;285
+2003;Oldenburg(Oldb)-Stadt;Fälle;K03403;259
+2004;Oldenburg(Oldb)-Stadt;Fälle;K03403;231
+2005;Oldenburg(Oldb)-Stadt;Fälle;K03403;296
+2006;Oldenburg(Oldb)-Stadt;Fälle;K03403;220
+2007;Oldenburg(Oldb)-Stadt;Fälle;K03403;192
+2008;Oldenburg(Oldb)-Stadt;Fälle;K03403;174
+2009;Oldenburg(Oldb)-Stadt;Fälle;K03403;214
+2010;Oldenburg(Oldb)-Stadt;Fälle;K03403;337
+2011;Oldenburg(Oldb)-Stadt;Fälle;K03403;208
+2012;Oldenburg(Oldb)-Stadt;Fälle;K03403;375
+2013;Oldenburg(Oldb)-Stadt;Fälle;K03403;276
+2014;Oldenburg(Oldb)-Stadt;Fälle;K03403;243
+2015;Oldenburg(Oldb)-Stadt;Fälle;K03403;241
+2016;Oldenburg(Oldb)-Stadt;Fälle;K03403;239
+2017;Oldenburg(Oldb)-Stadt;Fälle;K03403;262
+2018;Oldenburg(Oldb)-Stadt;Fälle;K03403;242
+2019;Oldenburg(Oldb)-Stadt;Fälle;K03403;280
+1991;Osnabrck-Stadt;Fälle;K03404;237
+1992;Osnabrck-Stadt;Fälle;K03404;233
+1993;Osnabrck-Stadt;Fälle;K03404;169
+1994;Osnabrck-Stadt;Fälle;K03404;186
+1995;Osnabrck-Stadt;Fälle;K03404;129
+1996;Osnabrck-Stadt;Fälle;K03404;117
+1997;Osnabrck-Stadt;Fälle;K03404;104
+1998;Osnabrck-Stadt;Fälle;K03404;100
+1999;Osnabrck-Stadt;Fälle;K03404;136
+2000;Osnabrck-Stadt;Fälle;K03404;129
+2001;Osnabrck-Stadt;Fälle;K03404;111
+2002;Osnabrck-Stadt;Fälle;K03404;95
+2003;Osnabrck-Stadt;Fälle;K03404;82
+2004;Osnabrck-Stadt;Fälle;K03404;125
+2005;Osnabrck-Stadt;Fälle;K03404;103
+2006;Osnabrck-Stadt;Fälle;K03404;102
+2007;Osnabrck-Stadt;Fälle;K03404;88
+2008;Osnabrck-Stadt;Fälle;K03404;92
+2009;Osnabrck-Stadt;Fälle;K03404;43
+2010;Osnabrck-Stadt;Fälle;K03404;98
+2011;Osnabrck-Stadt;Fälle;K03404;170
+2012;Osnabrck-Stadt;Fälle;K03404;205
+2013;Osnabrck-Stadt;Fälle;K03404;247
+2014;Osnabrck-Stadt;Fälle;K03404;106
+2015;Osnabrck-Stadt;Fälle;K03404;107
+2016;Osnabrck-Stadt;Fälle;K03404;67
+2017;Osnabrck-Stadt;Fälle;K03404;67
+2018;Osnabrck-Stadt;Fälle;K03404;98
+2019;Osnabrck-Stadt;Fälle;K03404;72
+1991;Wilhelmshaven-Stadt;Fälle;K03405;99
+1992;Wilhelmshaven-Stadt;Fälle;K03405;97
+1993;Wilhelmshaven-Stadt;Fälle;K03405;130
+1994;Wilhelmshaven-Stadt;Fälle;K03405;173
+1995;Wilhelmshaven-Stadt;Fälle;K03405;125
+1996;Wilhelmshaven-Stadt;Fälle;K03405;122
+1997;Wilhelmshaven-Stadt;Fälle;K03405;84
+1998;Wilhelmshaven-Stadt;Fälle;K03405;236
+1999;Wilhelmshaven-Stadt;Fälle;K03405;169
+2000;Wilhelmshaven-Stadt;Fälle;K03405;126
+2001;Wilhelmshaven-Stadt;Fälle;K03405;114
+2002;Wilhelmshaven-Stadt;Fälle;K03405;159
+2003;Wilhelmshaven-Stadt;Fälle;K03405;118
+2004;Wilhelmshaven-Stadt;Fälle;K03405;61
+2005;Wilhelmshaven-Stadt;Fälle;K03405;88
+2006;Wilhelmshaven-Stadt;Fälle;K03405;53
+2007;Wilhelmshaven-Stadt;Fälle;K03405;58
+2008;Wilhelmshaven-Stadt;Fälle;K03405;66
+2009;Wilhelmshaven-Stadt;Fälle;K03405;52
+2010;Wilhelmshaven-Stadt;Fälle;K03405;47
+2011;Wilhelmshaven-Stadt;Fälle;K03405;36
+2012;Wilhelmshaven-Stadt;Fälle;K03405;47
+2013;Wilhelmshaven-Stadt;Fälle;K03405;63
+2014;Wilhelmshaven-Stadt;Fälle;K03405;36
+2015;Wilhelmshaven-Stadt;Fälle;K03405;74
+2016;Wilhelmshaven-Stadt;Fälle;K03405;41
+2017;Wilhelmshaven-Stadt;Fälle;K03405;60
+2018;Wilhelmshaven-Stadt;Fälle;K03405;42
+2019;Wilhelmshaven-Stadt;Fälle;K03405;45
 1991;Ammerland;Fälle;K03451;437
 1992;Ammerland;Fälle;K03451;436
 1993;Ammerland;Fälle;K03451;557
@@ -1364,35 +1364,35 @@ Year;Gebietseinheit;Kategorien;GeoCode;Value
 2017;Oldenburg;Fälle;K03458;281
 2018;Oldenburg;Fälle;K03458;352
 2019;Oldenburg;Fälle;K03458;296
-1991;Osnabräck;Fälle;K03459;986
-1992;Osnabräck;Fälle;K03459;1191
-1993;Osnabräck;Fälle;K03459;1432
-1994;Osnabräck;Fälle;K03459;1645
-1995;Osnabräck;Fälle;K03459;1146
-1996;Osnabräck;Fälle;K03459;1068
-1997;Osnabräck;Fälle;K03459;1016
-1998;Osnabräck;Fälle;K03459;1192
-1999;Osnabräck;Fälle;K03459;1336
-2000;Osnabräck;Fälle;K03459;943
-2001;Osnabräck;Fälle;K03459;1024
-2002;Osnabräck;Fälle;K03459;1040
-2003;Osnabräck;Fälle;K03459;863
-2004;Osnabräck;Fälle;K03459;633
-2005;Osnabräck;Fälle;K03459;801
-2006;Osnabräck;Fälle;K03459;572
-2007;Osnabräck;Fälle;K03459;518
-2008;Osnabräck;Fälle;K03459;402
-2009;Osnabräck;Fälle;K03459;157
-2010;Osnabräck;Fälle;K03459;287
-2011;Osnabräck;Fälle;K03459;573
-2012;Osnabräck;Fälle;K03459;613
-2013;Osnabräck;Fälle;K03459;862
-2014;Osnabräck;Fälle;K03459;702
-2015;Osnabräck;Fälle;K03459;764
-2016;Osnabräck;Fälle;K03459;642
-2017;Osnabräck;Fälle;K03459;644
-2018;Osnabräck;Fälle;K03459;759
-2019;Osnabräck;Fälle;K03459;604
+1991;Osnabrck;Fälle;K03459;986
+1992;Osnabrck;Fälle;K03459;1191
+1993;Osnabrck;Fälle;K03459;1432
+1994;Osnabrck;Fälle;K03459;1645
+1995;Osnabrck;Fälle;K03459;1146
+1996;Osnabrck;Fälle;K03459;1068
+1997;Osnabrck;Fälle;K03459;1016
+1998;Osnabrck;Fälle;K03459;1192
+1999;Osnabrck;Fälle;K03459;1336
+2000;Osnabrck;Fälle;K03459;943
+2001;Osnabrck;Fälle;K03459;1024
+2002;Osnabrck;Fälle;K03459;1040
+2003;Osnabrck;Fälle;K03459;863
+2004;Osnabrck;Fälle;K03459;633
+2005;Osnabrck;Fälle;K03459;801
+2006;Osnabrck;Fälle;K03459;572
+2007;Osnabrck;Fälle;K03459;518
+2008;Osnabrck;Fälle;K03459;402
+2009;Osnabrck;Fälle;K03459;157
+2010;Osnabrck;Fälle;K03459;287
+2011;Osnabrck;Fälle;K03459;573
+2012;Osnabrck;Fälle;K03459;613
+2013;Osnabrck;Fälle;K03459;862
+2014;Osnabrck;Fälle;K03459;702
+2015;Osnabrck;Fälle;K03459;764
+2016;Osnabrck;Fälle;K03459;642
+2017;Osnabrck;Fälle;K03459;644
+2018;Osnabrck;Fälle;K03459;759
+2019;Osnabrck;Fälle;K03459;604
 1991;Vechta;Fälle;K03460;527
 1992;Vechta;Fälle;K03460;578
 1993;Vechta;Fälle;K03460;693
