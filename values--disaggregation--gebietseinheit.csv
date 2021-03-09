@@ -1,70 +1,73 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Ammerland,39,9
-Aurich,39,9
+Ammerland,40,10
+Aurich,40,10
 Braunschweig St,18,2
 Braunschweig-St,5,3
-Braunschweig Stadt,15,5
-Braunschweig-Stadt,2,2
+Braunschweig Stadt,16,6
+Braunschweig-Stadt,1,1
 Braunschweig,38,8
 Celle (oh.Celle,22,2
 Celle Stadt,18,2
 Celle-Stadt,4,2
-Celle,39,9
-Cloppenburg,39,9
+Celle,40,10
+Cloppenburg,40,10
 Cuxhaven (oh. C,22,2
 Cuxhaven Stadt,18,2
 Cuxhaven-Stadt,4,2
-Cuxhaven,39,9
+Cuxhaven,40,10
 Delmenhorst Sta,18,2
 Delmenhorst-Sta,5,3
-Delmenhorst-Stadt,1,1
+Delmenhorst-Stadt,2,2
 Delmenhorst.Stadt,15,5
-Diepholz,39,9
-Emden Stadt,33,7
+Diepholz,40,10
+Emden Stadt,34,8
 Emden-Stadt,6,4
 Emsland (oh. Li,22,2
-Emsland,39,9
-Friesland,39,9
+Emsland,40,10
+Friesland,40,10
 Garbsen Stadt,18,2
 Garbsen-Stadt,4,2
-Gifhorn,39,9
+Gifhorn,40,10
 Goslar (oh. Gos,22,2
 Goslar Stadt,18,2
 Goslar-Stadt,4,2
-Goslar,39,9
+Goslar,40,10
 Grafschaft Bent,23,3
-Grafschaft Bentheim,16,6
+Grafschaft Bentheim,17,7
 Grfsch.Bentheim,22,2
+G�ttingen,1,1
 G”ttingen,1,1
 Göttingen (oh.,22,2
 Göttingen Stadt,18,2
 Göttingen-Stadt,4,2
 Göttingen,38,8
-Hameln-Pyrmont,61,9
+Hameln-Pyrmont,62,10
 Hameln Stadt,18,2
 Hameln-Stadt,4,2
 Hannover Landes,18,2
 Hannover-Landes,4,2
-Hannover Landeshauptstadt,15,5
+Hannover Landeshauptstadt,16,6
 Hannover-Landeshauptstadt,1,1
-Hannover Region,33,7
+Hannover Region,34,8
 Hannover-Region,6,4
 Hannover,38,8
 Hann.Reg.(oh.Ha,22,2
-Harburg,39,9
-Heidekreis,39,9
-Helmstedt,39,9
+Harburg,40,10
+Heidekreis,40,10
+Helmstedt,40,10
 Hildesheim Stad,18,2
 Hildesheim-Stad,4,2
-Hildesheim,39,9
+Hildesheim,40,10
 Hildesheim(oh.H,22,2
-Holzminden,39,9
+Holzminden,40,10
 Langenhagen Sta,18,2
 Langenhagen-Sta,4,2
-Leer,39,9
+L�chow-Dannenberg,1,1
+Leer,40,10
 Lingen (Ems) St,20,2
 Lingen (Ems)-St,2,2
 Lneburg- Stadt,1,1
+L�neburg,1,1
 Lneburg,1,1
 Lüchow-Dannenbe,23,3
 Lüchow-Dannenberg,16,6
@@ -76,26 +79,29 @@ Lüneburg,75,8
 Melle Stadt,20,2
 Melle-Stadt,2,2
 Niedersachsen,40,10
-Nienburg (Weser),16,6
+Nienburg (Weser),17,7
 Nienburg (Weser,23,3
 Nordhorn Stadt,20,2
 Nordhorn-Stadt,2,2
-Northeim,39,9
-Oldenburg (Oldb) Stadt,15,5
-Oldenburg,39,9
+Northeim,40,10
+Oldenburg (Oldb) Stadt,16,6
+Oldenburg,40,10
 Oldenburg(Oldb)-Stadt,1,1
 Oldenburg(Oldb),23,3
+Osnabr�ck Stadt,1,1
 Osnabrck-Stadt,1,1
+Osnabr�ck,1,1
 Osnabrck,1,1
 Osnabrück (oh.M,22,2
 Osnabrück Stadt,35,7
 Osnabrück-Stadt,3,3
 Osnabrück,38,8
-Osterholz,39,9
+Osterholz,40,10
 Peine (oh. Pein,22,2
 Peine Stadt,18,2
 Peine-Stadt,4,2
-Peine,39,9
+Peine,40,10
+Rotenburg (W�mme),1,1
 Rotenburg (Wmme),1,1
 Rotenburg (Wümm,23,3
 Rotenburg (Wümme),15,5
@@ -103,30 +109,35 @@ Salzgitter Stad,18,2
 Salzgitter-Stad,5,3
 Salzgitter-Stadt,2,2
 Salzgitter.Stadt,15,5
-Schaumburg,39,9
+Schaumburg,40,10
 Stade Hansestad,18,2
 Stade-Hansestad,4,2
 Stade (oh.Stade,22,2
-Stade,39,9
+Stade,40,10
 Stat. Region Braunschweig,1,1
 Stat. Region Hannover,1,1
 Stat. Region Lüneburg,1,1
 Stat. Region Weser-Ems,1,1
-Uelzen,39,9
-Vechta,39,9
-Verden,39,9
+Statistische Region Braunschweig,1,1
+Statistische Region Hannover,1,1
+Statistische Region L�neburg,1,1
+Statistische Region Weser Ems,1,1
+Uelzen,40,10
+Vechta,40,10
+Verden,40,10
 Weser-Ems,38,8
-Wesermarsch,39,9
+Wesermarsch,40,10
 Wilhelmshaven S,20,2
 Wilhelmshaven-S,3,3
-Wilhelmshaven Stadt,15,5
+Wilhelmshaven Stadt,16,6
 Wilhelmshaven-Stadt,1,1
-Wittmund,39,9
+Wittmund,40,10
+Wolfenb�ttel,1,1
 Wolfenbttel,1,1
 Wolfenbüttel (o,22,2
 Wolfenbüttel St,18,2
 Wolfenbüttel-St,4,2
 Wolfenbüttel,38,8
 Wolfsburg Stadt,18,2
-Wolfsburg-Stadt,6,4
+Wolfsburg-Stadt,7,5
 Wolfsburg.Stadt,15,5
