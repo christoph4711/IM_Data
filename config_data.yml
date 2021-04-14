@@ -54,6 +54,10 @@ inputs:
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
 
+datapackage:
+    sorting: default
+
+
 # Translations
 # ------------
 # The allows control over the imported translations. This can be omitted if you
